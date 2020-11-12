@@ -11,23 +11,23 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes@4.21.0"
 minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en" # instead of a US or UK flavour in particular, because I interchange
 title                    : "Minimal Cave"
 title_separator          : "-"
 subtitle                 : Data | Programming | Everything else # site tagline that appears below site title in masthead
-name                     : "Minimal Cave"
-description              : "[Anil George](https://in.linkedin.com/in/anilgeorge04) tinkers with data and technology here."
+name                     : "Minimal Cave" # site author, shows up in Copyright at the footer
+description              : "[Anil George](https://in.linkedin.com/in/anilgeorge04) tinkers with data & technology and writes here. Topics range from Programming to Sports to Science to Living well."
 url                      : "https://minimalcave.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "anilgeorge04/anilgeorge04.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/cave-banner.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+repository               : "anilgeorge04/minimal-cave" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : "/assets/images/cave-banner.jpg" # path of fallback teaser image for RELATED POSTS, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/zen-circle2.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -51,7 +51,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -70,19 +70,21 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "anilgeorge04"
 facebook:
-  username               :
+  username               : "anilgeorge04"
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/zen-circle2.jpg # Open Graph/Twitter default site image, shows up while sharing as default
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - "https://twitter.com/anilgeorge04"
+    - "https://github.com/anilgeorge04"
+    - "https://www.linkedin.com/in/anilgeorge04/"
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
@@ -108,14 +110,14 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/anilgeorge04"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/anilgeorge04/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/anilgeorge04"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
@@ -274,6 +276,7 @@ defaults:
       type: posts
     values:
       layout: single
+      show_date: true
       author_profile: true
       read_time: true
       comments: # true
