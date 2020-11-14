@@ -12,15 +12,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.21.0"
-minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en" # instead of a US or UK flavour in particular, because I interchange
 title                    : "Minimal Cave"
 title_separator          : "-"
-subtitle                 : Data | Programming | Everything else # site tagline that appears below site title in masthead
+subtitle                 : Data, Programming & general curiosity # site tagline that appears below site title in masthead
 name                     : "Minimal Cave" # site author, shows up in Copyright at the footer
-description              : "[Anil George](https://in.linkedin.com/in/anilgeorge04) tinkers with data & technology and writes here. Topics range from Programming to Sports to Science to Living well."
+description              : "[Anil George](https://in.linkedin.com/in/anilgeorge04) tinkers with data & technology and blogs here."
 url                      : "https://minimalcave.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "anilgeorge04/minimal-cave" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -72,7 +72,7 @@ naver_site_verification  :
 twitter:
   username               : "anilgeorge04"
 facebook:
-  username               : "anilgeorge04"
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : /assets/images/zen-circle2.jpg # Open Graph/Twitter default site image, shows up while sharing as default
