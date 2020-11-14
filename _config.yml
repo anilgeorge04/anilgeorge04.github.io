@@ -25,7 +25,7 @@ url                      : "https://minimalcave.com" # the base hostname & proto
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "anilgeorge04/minimal-cave" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/cave-banner.jpg" # path of fallback teaser image for RELATED POSTS, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/zen-circle2.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/192x192.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -75,7 +75,7 @@ facebook:
   username               : 
   app_id                 :
   publisher              :
-og_image                 : /assets/images/zen-circle2.jpg # Open Graph/Twitter default site image, shows up while sharing as default
+og_image                 : "/assets/images/192x192.png" # Open Graph/Twitter default site image, shows up while sharing as default
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -96,7 +96,7 @@ analytics:
 # Site Author
 author:
   name             : "Anil George"
-  avatar           : "/assets/images/zen-circle2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/anil-sketch.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Passionate about data, algorithms and sports."
   location         : "Remote"
   email            :
