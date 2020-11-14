@@ -1,5 +1,6 @@
 ---
 header:
+    image: /assets/images/cs50.jpg
     teaser: /assets/images/cs50.jpg
 ---
 [GitHub Repo](https://github.com/anilgeorge04/cs50harvard)
