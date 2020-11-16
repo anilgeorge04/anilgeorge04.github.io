@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Tinker"
-    url: /tinker.html
+    url: /tinker/
   - title: "About"
-    url: /about.html
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
