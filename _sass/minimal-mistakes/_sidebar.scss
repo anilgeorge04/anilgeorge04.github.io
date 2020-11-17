@@ -131,7 +131,7 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 2px;
       // border: 1px solid $border-color;
     }
   }
@@ -313,6 +313,11 @@
 
     &:hover {
       text-decoration: underline;
+      -webkit-transform: scale(1.1);
+      -moz-transform: scale(1.1);
+      -ms-transform: scale(1.1);
+      -o-transform: scale(1.1);
+      transform: scale(1.1)
     }
   }
 }
