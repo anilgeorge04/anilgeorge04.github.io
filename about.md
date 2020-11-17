@@ -1,6 +1,7 @@
 ---
 title: About
 author_profile: true
+layout: single
 ---
 This page has picked default layout by default without YAML.
 

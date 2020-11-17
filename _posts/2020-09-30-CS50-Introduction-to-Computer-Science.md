@@ -2,6 +2,7 @@
 header:
     image: /assets/images/cs50.jpg
     teaser: /assets/images/cs50.jpg
+categories: tinker
 ---
 [GitHub Repo](https://github.com/anilgeorge04/cs50harvard)
 
