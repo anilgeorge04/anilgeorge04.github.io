@@ -1,33 +1,22 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
 # Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.21.0"
 minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en" # instead of a US or UK flavour in particular, because I interchange
 title                    : "Minimal Cave"
+locale                   : "en"
 title_separator          : "-"
-subtitle                 : Data, Programming & General curiosity # site tagline that appears below site title in masthead
+subtitle                 : "Data, Programming & General curiosity" # site tagline that appears below site title in masthead
 name                     : "Minimal Cave" # site author, shows up in Copyright at the footer
 description              : "[Anil George](https://in.linkedin.com/in/anilgeorge04) tinkers with data & technology and blogs here."
-url                      : "https://minimalcave.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "anilgeorge04/minimal-cave" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/cave-banner.jpg" # path of fallback teaser image for RELATED POSTS, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/192x192.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+url                      : "https://minimalcave.com" # base hostname & protocol for site
+baseurl                  : # the subpath of site, e.g. "/blog"
+repository               : "anilgeorge04/minimal-cave" # GitHub username/repo-name
+teaser                   : "/assets/images/cave-banner.jpg" # path of fallback teaser image for RELATED POSTS
+logo                     : "/assets/images/192x192.png" # path of logo image to display in the masthea
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -70,7 +59,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "anilgeorge04"
+  username               : anilgeorge04
 facebook:
   username               : 
   app_id                 :
@@ -85,6 +74,7 @@ social:
     - "https://twitter.com/anilgeorge04"
     - "https://github.com/anilgeorge04"
     - "https://www.linkedin.com/in/anilgeorge04/"
+
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
@@ -100,22 +90,25 @@ author:
   bio              : "A programmer and athlete at heart, who builds teams and scales organizations."
   location         : # "New Delhi, India"
   email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://minimalcave.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/anilgeorge04"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/anilgeorge04/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/anilgeorge04"
+  twitter          : anilgeorge04
+  github           : anilgeorge04
+  linkedin         : anilgeorge04
+  # links:
+  #   - label: "Email"
+  #     icon: "fas fa-fw fa-envelope-square"
+  #     # url: "mailto:your.name@email.com"
+  #   - label: "Website"
+  #     icon: "fas fa-fw fa-link"
+  #     # url: "https://minimalcave.com"
+  #   - label: "Twitter"
+  #     icon: "fab fa-fw fa-twitter-square"
+  #     url: "https://twitter.com/anilgeorge04"
+  #   - label: "LinkedIn"
+  #     icon: "fab fa-fw fa-linkedin"
+  #     url: "https://www.linkedin.com/in/anilgeorge04/"
+  #   - label: "GitHub"
+  #     icon: "fab fa-fw fa-github"
+  #     url: "https://github.com/anilgeorge04"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -282,3 +275,7 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+    path: ""
+    type: 
