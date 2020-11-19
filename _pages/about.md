@@ -1,5 +1,5 @@
 ---
-title: About
+title: About me
 layout: single
 permalink: /about/
 ---
@@ -16,6 +16,6 @@ My interests lie in sports, meditation, education, and online learning. I was th
 
 
 ### About the site
-This site is powered by [Jekyll](jekyllrb.com/) using the [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/) theme. 
-All blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-All opinions and views are my own and do not represent any organization I am affiliated with.
+This site runs for free, powered by the awesome open-source Ruby projects [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/).
+
+All blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). All opinions and views are my own. They do not represent any organization I am/was affiliated with.
