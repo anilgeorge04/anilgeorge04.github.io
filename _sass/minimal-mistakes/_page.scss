@@ -55,7 +55,16 @@ body {
     width: 100%;
     clear: both;
 
-    .page__content,
+    .page__content {
+      position: relative;
+      float: left;
+      margin-left: 0;
+      margin-right: 0;
+      width: 100%;
+      clear: both;
+      text-align: justify;
+    }
+
     .page__meta,
     .page__share {
       position: relative;
