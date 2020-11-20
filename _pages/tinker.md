@@ -1,7 +1,12 @@
 ---
-title: Projects & Analysis
-layout: archive
+title: Tinker
+layout: collection
 permalink: /tinker/
+collection: tinker
+entries_layout: grid
+classes: wide
 ---
 This is where I tinker.
-Must include categories: Projects & Analysis here.
+
+<!-- [Categories](/tinker/categories/) -->
+

@@ -282,3 +282,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _tinker
+  - scope:
+      path: ""
+      type: tinker
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+
+collections:
+  - tinker:
+      output: true
+      permalink: /:collection/:path/
