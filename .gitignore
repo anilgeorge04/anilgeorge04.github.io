@@ -31,5 +31,6 @@ codekit-config.json
 _asset_bundler_cache
 _site
 
-# Temp Local Files
+# Local Files
 david.css
+_drafts/
