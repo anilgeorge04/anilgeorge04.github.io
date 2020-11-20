@@ -7,7 +7,10 @@ entries_layout: grid
 classes: wide
 author_profile: false
 ---
-This is where I tinker.
+- Step 1: Be curious
+- Step 2+ Follow curiosity.
+
+This is where I tinker with Data & Technology and share my unpolished projects and analysis.
 
 <!-- [Categories](/tinker/categories/) -->
 
