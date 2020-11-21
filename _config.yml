@@ -7,7 +7,7 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 title                    : "Minimal Cave"
 locale                   : "en"
 title_separator          : "-"
-subtitle                 : "Data, Programming & General curiosity" # site tagline that appears below site title in masthead
+subtitle                 : "Data & General curiosity" # site tagline that appears below site title in masthead
 name                     : "Minimal Cave" # site author, shows up in Copyright at the footer
 description              : "[Anil George](https://in.linkedin.com/in/anilgeorge04) tinkers with data & technology and blogs here."
 url                      : "https://minimalcave.com" # base hostname & protocol for site
