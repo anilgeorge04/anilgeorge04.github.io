@@ -1,6 +1,6 @@
 ---
+title: Blog
 layout: home
+permalink: /blog/
+classes: wide
 ---
-This is where I write.
-
-[Tags](/blog/tags/)
