@@ -1,6 +1,6 @@
 ---
 header:
     teaser: "/assets/images/playstore.jpg"
-categories: analysis
+tags: 
 ---
 Understand the ratings on the Google Playstore in more detail.

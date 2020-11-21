@@ -2,8 +2,8 @@
 main:
   # - title: "Open Learn India"
   #   url: "https://openlearnindia.org"
-  - title: "Blog"
-    url: /blog/
+  - title: "All Posts"
+    url: /all/
   - title: "Tinker"
     url: /tinker/
   - title: "About"

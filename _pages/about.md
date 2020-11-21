@@ -10,7 +10,8 @@ Previously, I worked at [Mu Sigma](https://www.mu-sigma.com/) in Data Science & 
 
 I completed my Postgraduate in Liberal Studies at the [Young India Fellowship](https://ashoka.edu.in/yif) Ashoka University in Delhi, and studied General Management at [IIM Bangalore](https://www.iimb.ac.in/home) & Computer Science at [PSG College of Technology](https://www.psgtech.edu/) Coimbatore.
 
-More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04/).
+More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04/){: .btn .btn--info}
+
 
 My interests lie in sports, meditation, education, and online learning. I was the Founding President of [Delhi Ultimate](https://www.facebook.com/pg/DelhiUltimate/about/), the official governing body for Ultimate Frisbee in Delhi & NCR. I [represented India](https://indiaultimate.org/2015-aouc-team-india) in Ultimate Frisbee at Asia Championship in Hong Kong. I currently live in Goa, advise startups, and play for the state team here.
 
