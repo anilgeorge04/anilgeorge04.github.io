@@ -3,8 +3,8 @@
    ========================================================================== */
 
 /* Colors */
-$text-color: #000 !default;
-$muted-text-color: $text-color !default;
+$text-color: #111 !default;
+$muted-text-color: mix(#fff, $text-color, 20%) !default;;
 $primary-color: #ff0000 !default;
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: #000 !default;
