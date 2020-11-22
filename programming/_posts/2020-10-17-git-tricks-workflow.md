@@ -2,6 +2,12 @@
 title: 3 easy Git commands to power a clean development workflow
 header:
     teaser: /assets/images/unsplash-yancymin.jpg
+tags:
+    - git
+    - software development
+    - version control
+    - quick hacks
+
 ---
 Git is a free and open-source distributed version control system, designed for speed and accuracy. While it is powerful, it comes with a learning curve. So starting off, **you're bound to make some mistakes with your commits. That's okay!** The great thing about version control is that you can always roll back to a previous stable state. You can run your experiments in branches without disrupting anything on the master branch. You can pull up the log and decide your next steps and more.
 
