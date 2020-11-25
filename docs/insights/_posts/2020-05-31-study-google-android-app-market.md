@@ -6,11 +6,14 @@ tags:
     - product
     - mobile apps
     - market study
+    - datacamp
 ---
+**Disclaimer:** This notebook was created to learn Jupyter and Python using a DataCamp template.
+{: .notice--warning}
 Analyze the Android app market by comparing ten thousand apps in Google Play across different categories. 
 
 **Spoiler**:<br>The average App Rating on Google Play Store is *4.17*.<br>Medical and Family apps are most expensive.
-{: .notice--primary}
+{: .notice--success}
 
 ## 1. Google Play Store apps and reviews
 <p>Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. I wanted to do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. Idea was to look for insights in the data to devise strategies to drive growth and retention.</p>
@@ -383,3 +386,4 @@ Average app rating =  4.173243045387994
     
 #### Reference
 For more detail with code and interactive graphs [Visit Notebook](https://bit.ly/33dC7g0){: .btn .btn--primary target="_blank"}
+<br>*Source*: DataCamp
