@@ -8,6 +8,9 @@ buttons:
 main_image:
     image_path: /assets/images/chill-where.jpg
     alt: Chill Where
+tags:
+    - webprogramming
+    - leisure
 ---
 Find your favorite movies and TV shows faster on your subscribed platform. Run the search from one place. Skip typing the URLs and keyword again and again.
 

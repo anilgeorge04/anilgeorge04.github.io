@@ -12,6 +12,10 @@ main_image:
     image_path: /assets/images/traintotrade.jpg
     alt: Fit Investors
     caption: Sample portfolio for illustration purpose only
+tags:
+    - flask
+    - python
+    - webprogramming
 ---
 Designed for The Fit Investors who like to train. Sandbox account for veteran investors to make experimental bets. Ideal platform for new stock investors to learn stock market fluctuations (without risk) by managing a real-time US stock portfolio.
 {: .notice--success}

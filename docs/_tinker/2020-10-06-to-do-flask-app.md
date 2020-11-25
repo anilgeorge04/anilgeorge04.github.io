@@ -12,6 +12,7 @@ tags:
     - flask
     - sqlite
     - heroku
+    - python
 ---
 ## TODO-ay
 To-do app with CRUD operations using Flask, a Python web microframework deployed [here](https://flaskcrud-apptodo.herokuapp.com/).
