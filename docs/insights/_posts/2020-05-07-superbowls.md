@@ -2,8 +2,8 @@
 title: Superbowls & Half-Time Shows
 excerpt: "How the games, halftime shows, viewership, TV ratings, and ad costs interact with each other"
 header:
-  teaser: "/assets/images/superbowl_files/super-bowl-halftime-usat.jpg"
-  overlay_image: "/assets/images/superbowl_files/super-bowl-halftime-usat.jpg"
+  teaser: /assets/images/superbowl_files/super-bowl-halftime-usat.jpg
+  overlay_image: /assets/images/superbowl_files/super-bowl-halftime-usat.jpg
   overlay_filter: 0.5
   caption: "Photo &copy; NBC Sports"
 main_image:
