@@ -269,7 +269,7 @@ defaults:
       type: posts
     values:
       layout: single
-      # show_date: true
+      show_date: true
       author_profile: false
       read_time: true
       # comments: true
@@ -288,6 +288,7 @@ defaults:
       type: tinker
     values:
       layout: single
+      show_date: true
       author_profile: true
       share: true
       related: true
