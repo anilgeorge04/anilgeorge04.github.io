@@ -1,5 +1,6 @@
 ---
 title: Git Branches of Consciousness
+excerpt: Journaling my thoughts on meditation and git, connected by the idea of branches
 header:
     teaser: /assets/images/unsplash-maxduzij.jpg
 tags: 
