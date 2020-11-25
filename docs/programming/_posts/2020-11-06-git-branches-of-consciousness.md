@@ -1,4 +1,5 @@
 ---
+title: Git Branches of Consciousness
 header:
     teaser: /assets/images/unsplash-maxduzij.jpg
 tags: 

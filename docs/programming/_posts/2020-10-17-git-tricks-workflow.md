@@ -1,5 +1,5 @@
 ---
-title: 3 easy Git commands to power a clean development workflow
+title: 3 Simple Git Commands for a Clean Development Workflow
 header:
     teaser: /assets/images/unsplash-yancymin.jpg
 tags:
