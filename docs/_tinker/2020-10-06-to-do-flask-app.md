@@ -1,13 +1,17 @@
 ---
 excerpt: To-do app with CRUD operations using Flask
 header:
-    teaser: /assets/images/flasktodo.png
+    teaser: /assets/images/flasktodo.jpg
 buttons:
     app: https://flaskcrud-apptodo.herokuapp.com/
     github: https://github.com/anilgeorge04/todo-flask
 main_image:
-    image_path: /assets/images/flasktodo.png
+    image_path: /assets/images/flasktodo.jpg
     alt: Flask To Do
+tags:
+    - flask
+    - sqlite
+    - heroku
 ---
 ## TODO-ay
 To-do app with CRUD operations using Flask, a Python web microframework deployed [here](https://flaskcrud-apptodo.herokuapp.com/).
