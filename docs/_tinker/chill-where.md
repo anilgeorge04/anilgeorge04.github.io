@@ -1,7 +1,7 @@
 ---
+excerpt: Find your favorite movies and TV shows faster
 header:
     teaser: /assets/images/chill-where.jpg
-excerpt: Find your favorite movies and TV shows faster
 ---
 ![](/assets/images/chill-where.jpg){: .align-center}
 
