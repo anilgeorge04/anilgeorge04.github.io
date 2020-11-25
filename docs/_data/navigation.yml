@@ -1,0 +1,16 @@
+# main links
+main:
+  # - title: "Open Learn India"
+  #   url: "https://openlearnindia.org"
+  - title: "All Posts"
+    url: /all/
+  - title: "Tinker"
+    url: /tinker/
+  - title: "About"
+    url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
