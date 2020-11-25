@@ -1,7 +1,10 @@
 ---
-title: "Demystify: Why is the sky blue? And other colors"
+title: "Demystify: Why is the sky blue?"
+excerpt: "And all the other beautiful colours"
 header:
     teaser: /assets/images/unsplash-jakeblucker.jpg
+    overlay_image: /assets/images/unsplash-jeffham.jpg
+    caption: "Jeffrey Hamilton on Unsplash"
 tags:
     - science
     - physics
@@ -9,7 +12,6 @@ tags:
     - cosmos
     - howstuffworks
 ---
-{% include figure image_path="/assets/images/unsplash-jeffham.jpg" alt="Colorful sky" caption="Photo by Jeffrey Hamilton on Unsplash" %}
 There are many things in our life that we accept and take for granted. After all, our brain only has enough time and energy to catch up on what my friend ate for lunch, what Trump tweeted from his pot, what YouTube & TikTok recommends for my dopamine fix today… you get the point. We have a life.
 
 We have better things to do than sit around pondering about questions like “Why is the sky blue”, “How do magnets work”, “What are time zones”, “What is gravity”. But exploring these questions makes the “(we have a) life” on Earth so fascinating. After all, scientific thinking is the reason you’re able to read this on a digital device halfway across the world from where I’m writing this now.
@@ -47,7 +49,7 @@ Why is the sky the color that you see? Did you see other colors at the same time
 
 It is fun to imagine!
 
----
-### Related Resources:
-- [A short video from minutephysics](https://www.youtube.com/watch?v=NafbGOQBlQs)
-- [NASA on Sunsets and Atmosphere](https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-sunsets-and-atmosphere)
+#### Related Resources:
+{% include video id="x0996ts017U" provider="youtube" %}
+{% include video id="NafbGOQBlQs" provider="youtube" %}
+Reading: [NASA on Sunsets and Atmosphere](https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-sunsets-and-atmosphere)
