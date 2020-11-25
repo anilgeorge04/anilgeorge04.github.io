@@ -1,21 +1,24 @@
 ---
 image_folder: /assets/images/playstore_notebook_files/
+excerpt: "Analyze the Android app market by comparing ten thousand apps in Google Play across different categories."
 header:
+  overlay_image: /assets/images/playstore_notebook_files/google_play_store.png
+  caption: "Photo: DataCamp"
+  overlay_filter: 0.5
   teaser: /assets/images/playstore_notebook_files/notebook_9_0.png
 tags:
     - product
     - mobile apps
     - market study
     - datacamp
+nbviewer: https://bit.ly/33dC7g0
 ---
-**Disclaimer:** This notebook was created to learn Jupyter and Python using a DataCamp template.
-{: .notice--warning}
-Analyze the Android app market by comparing ten thousand apps in Google Play across different categories. 
+{% include /notebooks/datacamp.html %} 
 
-**Spoiler**:<br>The average App Rating on Google Play Store is *4.17*.<br>Medical and Family apps are most expensive.
-{: .notice--success}
 
 ## 1. Google Play Store apps and reviews
+**Spoiler**:<br>The average App Rating on Google Play Store is *4.17*.<br>Medical and Family apps are most expensive.
+{: .notice--success}
 <p>Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, more and more apps are being developed. I wanted to do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. Idea was to look for insights in the data to devise strategies to drive growth and retention.</p>
 <p><img src="https://assets.datacamp.com/production/project_619/img/google_play_store.png" alt="Google Play Logo"></p>
 <p>Let's take a look at the data, which consists of two files:</p>
@@ -378,12 +381,14 @@ Average app rating =  4.173243045387994
 ## 9. Sentiment analysis of user reviews
 <p>Mining user review data to determine how people feel about your product, brand, or service can be done using a technique called sentiment analysis. User reviews for apps can be analyzed to identify if the mood is positive, negative or neutral about that app. For example, positive words in an app review might include words such as 'amazing', 'friendly', 'good', 'great', and 'love'. Negative words might be words like 'malware', 'hate', 'problem', 'refund', and 'incompetent'.</p>
 <p>By plotting sentiment polarity scores of user reviews for paid and free apps, we observe that free apps receive a lot of harsh comments, as indicated by the outliers on the negative y-axis. Reviews for paid apps appear never to be extremely negative. This may indicate something about app quality, i.e., paid apps being of higher quality than free apps on average. The median polarity score for paid apps is a little higher than free apps, thereby syncing with our previous observation.</p>
-<p>In this notebook, we analyzed over ten thousand apps from the Google Play Store. We can use our findings to inform our decisions should we ever wish to create an app ourselves.</p>
 
     Text(0.5, 1.0, 'Sentiment Polarity Distribution')
     
 ![png]({{page.image_folder}}notebook_17_1.png)
+<p>In this notebook, we analyzed over ten thousand apps from the Google Play Store. We can use our findings to inform our decisions should we ever wish to create an app ourselves.</p>
     
 #### Reference
-For more detail with code and interactive graphs [Visit Notebook](https://bit.ly/33dC7g0){: .btn .btn--primary target="_blank"}
-<br>*Source*: DataCamp
+- DataCamp
+- Google Play Store
+
+{% include /notebooks/nbviewer.html %}

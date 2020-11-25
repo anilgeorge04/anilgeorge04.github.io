@@ -1,17 +1,23 @@
 ---
 title: Superbowls & Half-Time Shows
+excerpt: "How the games, halftime shows, viewership, TV ratings, and ad costs interact with each other"
 header:
-  teaser: /assets/images/superbowl_files/super-bowl-halftime-usat.jpg
+  teaser: "/assets/images/superbowl_files/super-bowl-halftime-usat.jpg"
+  overlay_image: "/assets/images/superbowl_files/super-bowl-halftime-usat.jpg"
+  overlay_filter: 0.5
+  caption: "Photo &copy; NBC Sports"
+main_image:
+  image_path: "/assets/images/superbowl_files/super-bowl-halftime-usat.jpg"
+  alt: "Superbowl Halftime Show"
+  caption: "&copy; NBC Sports"
 mathjax: true
+nbviewer: https://bit.ly/33iN7bP
 tags:
   - sports
   - marketing
   - datacamp
 ---
-{% include figure image_path="/assets/images/superbowl_files/super-bowl-halftime-usat.jpg" alt="Superbowl Halftime Show" caption="&copy; NBC Sports" %}
-
-**Disclaimer:** This notebook was created to learn Jupyter and Python using a DataCamp template.
-{: .notice--warning}
+{% include /notebooks/datacamp.html %}
 
 ## TV, Halftime shows, and the Big Game
 <p>Whether or not you like football, the Super Bowl is a spectacle. There's a little something for everyone at your Super Bowl party. Drama in the form of blowouts, comebacks, and controversy for the sports fan. There are the ridiculously expensive ads, some hilarious, others gut-wrenching, thought-provoking, and weird. The half-time shows with the biggest musicians in the world, sometimes <a href="https://youtu.be/ZD1QrIe--_Y?t=14">riding giant mechanical tigers</a> or <a href="https://youtu.be/mjrdywp5nyE?t=62">leaping from the roof of the stadium</a>. It's a show, baby. And in this notebook, we're going to find out how some of the elements of this show interact with each other. After exploring and cleaning our data a little, we're going to answer questions like:</p>
@@ -1414,9 +1420,8 @@ tags:
     The winner of Super Bowl LIII will be the New England Patriots
 <p><em>UPDATE: <a href="https://en.wikipedia.org/wiki/Super_Bowl_LIII">True Prediction</a>.</em></p>
 
-#### Reference
-*Source*: 
+#### References
 - DataCamp
 - Wikipedia
-<br>
-For more detail with code and interactive graphs [Visit Notebook](https://bit.ly/33iN7bP){: .btn .btn--primary target="_blank"}
+
+{% include /notebooks/nbviewer.html %}
