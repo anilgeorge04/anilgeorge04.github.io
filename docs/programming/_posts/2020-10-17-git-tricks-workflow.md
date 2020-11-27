@@ -4,8 +4,9 @@ excerpt: Work with branches, commits and logs
 header:
     teaser: /assets/images/unsplash-yancymin.jpg
     overlay_image: /assets/images/unsplash-yancymin.jpg
+    image_description: "Git Version Control"
     overlay_filter: 0.5
-    caption: Yancy Min on Unsplash
+    caption: "[Yancy Min](https://unsplash.com/photos/842ofHC6MaI)"
 tags:
     - git
     - software development

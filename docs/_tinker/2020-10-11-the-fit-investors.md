@@ -5,6 +5,9 @@ header:
     overlay_image: /assets/images/traintotrade.jpg
     overlay_filter: 0.5
     caption: For illustration purpose only
+    actions:
+      - label: Visit App
+        url: http://thefitinvestors.com/
 buttons:
     app: http://thefitinvestors.com
     github: https://github.com/anilgeorge04/train-to-trade
