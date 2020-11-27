@@ -1,8 +1,9 @@
 ---
-title: All Posts
-layout: categories
+title: "Posts by Year"
+layout: posts
 permalink: /all/
 classes: wide
 ---
-<!-- See posts using jekyll-archives by: year, categories -->
-All posts grouped by Categories below.
+View by
+[Categories](/categories/){: .btn .btn--danger}
+[Tags](/tags/){: .btn .btn--danger}
