@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Anil George"
-  avatar           : "/assets/images/bio-image.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-image-color.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A keen observer, programmer, and athlete who builds teams and scales organizations."
   location         : # "New Delhi, India"
   email            :
