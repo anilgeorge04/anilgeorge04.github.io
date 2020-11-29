@@ -258,7 +258,7 @@ compress_html:
   comments: ["<!-- ", " -->"]
   ignore:
     envs: development
-  blanklines: false
+  # blanklines: false
 
 
 # Defaults
