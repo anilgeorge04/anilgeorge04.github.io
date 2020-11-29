@@ -50,6 +50,6 @@ Why is the sky the color that you see? Did you see other colors at the same time
 It is fun to imagine!
 
 #### Related Resources:
+Reading: [NASA on Sunsets and Atmosphere](https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-sunsets-and-atmosphere)
 {% include video id="x0996ts017U" provider="youtube" %}
 {% include video id="NafbGOQBlQs" provider="youtube" %}
-Reading: [NASA on Sunsets and Atmosphere](https://nasaeclips.arc.nasa.gov/video/ourworld/our-world-sunsets-and-atmosphere)
