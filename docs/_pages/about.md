@@ -17,6 +17,10 @@ More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04/){: .btn .btn--info}
 
 My interests lie in data, sports, meditation, and education. I was the Founding President of [Delhi Ultimate](https://www.facebook.com/pg/DelhiUltimate/about/), the official governing body for Ultimate Frisbee in Delhi & NCR. I [represented India](https://indiaultimate.org/2015-aouc-team-india) in Ultimate Frisbee at the Asia Championship in Hong Kong. I currently live in Goa, advise startups, and play for the state team here.
 
+### Subscribe to Minimal Cave
+For simple articles across data, business, programming, productivity and health.
+{% include feedburn-subscribe.html %}
+You can unsubscribe easily at any time. If you face any issues, [write to me](mailto:blog@minimalcave.com) directly.
 
 ### About the site
 This site runs for free, powered by the awesome open-source Ruby projects [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/).
