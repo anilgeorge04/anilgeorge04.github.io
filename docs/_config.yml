@@ -89,14 +89,14 @@ author:
   avatar           : "/assets/images/bio-image-color.jpg" # path of avatar image
   bio              : "A keen observer, programmer, and athlete who builds teams and scales organizations."
   location         : # "New Delhi, India"
-  email            :
   twitter          : anilgeorge04
   github           : anilgeorge04
   linkedin         : anilgeorge04
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:blog@minimalcave.com"
+  email            : blog@minimalcave.com
+  # links:
+  #   - label: "Email"
+  #     icon: "fas fa-fw fa-envelope-square"
+  #     url: "mailto:blog@minimalcave.com"
   #   - label: "Website"
   #     icon: "fas fa-fw fa-link"
   #     # url: "https://openlearnindia.org"
