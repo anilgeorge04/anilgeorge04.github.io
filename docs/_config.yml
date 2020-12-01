@@ -93,10 +93,10 @@ author:
   twitter          : anilgeorge04
   github           : anilgeorge04
   linkedin         : anilgeorge04
-  # links:
-  #   - label: "Email"
-  #     icon: "fas fa-fw fa-envelope-square"
-  #     # url: "mailto:your.name@email.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:blog@minimalcave.com"
   #   - label: "Website"
   #     icon: "fas fa-fw fa-link"
   #     # url: "https://openlearnindia.org"
