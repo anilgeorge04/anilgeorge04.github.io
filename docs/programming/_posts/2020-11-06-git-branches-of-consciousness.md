@@ -50,6 +50,4 @@ Come back to sitting tall and watching your breath. Accept the newly formed thou
 
 Our mind works like a huge distributed development team that’s working on multiple branches in parallel. When you’re meditating, you’re not looking to solve or plan tasks or dive deep into any branch. You’re going around for visits to all branches that appear and merely listening and paying close attention. You make decisions later with a clear mind.
 
----
-
 Thanks for reading. Do you have more Git anecdotes that resonate with your life? Have you had moments while programming where you find parallels with other areas in your life, or the other way around?
