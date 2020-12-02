@@ -201,6 +201,17 @@ body:hover .visually-hidden button {
   vertical-align: middle;
 }
 
+.icon-follow {
+  display: inline-block;
+  fill: currentColor;
+  width: 2.4em;
+  height: 2.4em;
+  line-height: 1;
+  position: relative;
+  top: -0.1em;
+  vertical-align: middle;
+}
+
 /* social icons*/
 
 .social-icons {
@@ -264,7 +275,7 @@ body:hover .visually-hidden button {
 
   .fa-linkedin,
   .fa-linkedin-in {
-    // color: $linkedin-color;
+    color: $linkedin-color;
   }
 
   .fa-mastodon,
@@ -303,7 +314,7 @@ body:hover .visually-hidden button {
 
   .fa-twitter,
   .fa-twitter-square {
-    // color: $twitter-color;
+    color: $twitter-color;
   }
 
   .fa-vimeo,
