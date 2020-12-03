@@ -23,6 +23,6 @@ For simple articles across data, business, programming, productivity and health.
 You can unsubscribe easily at any time. If you face any issues, [write to me](mailto:blog@minimalcave.com) directly.
 
 ### About the site
-This site runs for free, powered by the awesome open-source Ruby projects [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/).
+This site runs for free, powered by the awesome open-source Ruby projects [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/). Email subscriptions are powered by RSS feed using [follow.it](https://follow.it/s/7z1U) and a native form.
 
 All blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). All opinions and views are my own. They do not represent any organization I am/was affiliated with.
