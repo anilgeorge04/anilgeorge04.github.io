@@ -202,6 +202,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  # - jekyll-crosspost-to-medium
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -210,6 +211,16 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  # - jekyll-crosspost-to-medium
+
+# crosspost to medium
+# jekyll-crosspost_to_medium:
+#   enabled: true
+#   cache: .jekyll-crosspost_to_medium
+#   status: public
+#   license: all-rights-reserved
+#   text: '<p><i>This article originally appeared on <a href="{{ url }}" rel="canonical">Minimal Cave</a>.</i></p>',
+#   backdate: true
 
   
 # Archives
