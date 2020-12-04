@@ -7,7 +7,6 @@ header:
     caption: "Jeffrey Hamilton on Unsplash"
 tags:
     - science
-    - explainer
     - cosmos
     - howstuffworks
 ---

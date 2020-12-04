@@ -7,10 +7,11 @@ header:
   overlay_filter: 0.5
   teaser: /assets/images/playstore_notebook_files/notebook_9_0.png
 tags:
-    - product
-    - mobile apps
-    - market study
-    - datacamp
+  - mobile apps
+  - marketing
+  - datacamp
+  - notebook
+  - insights
 nbviewer: https://bit.ly/33dC7g0
 ---
 {% include /notebooks/datacamp.html %} 

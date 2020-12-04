@@ -5,7 +5,6 @@ header:
     teaser: /assets/images/unsplash-maxduzij.jpg
 tags: 
     - git
-    - meditation
     - mindfulness
     - journal
 ---
