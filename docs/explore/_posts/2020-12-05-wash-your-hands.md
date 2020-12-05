@@ -2,7 +2,8 @@
 title: Wash your hands and save lives
 excerpt: 'Why is Dr. Semmelweis known as "the saviour of mothers"?'
 header:
-  teaser: /assets/images/wash-your-hands_files/ignaz_semmelweis_1860.jpg
+  teaser: "https://images.unsplash.com/photo-1584265549884-cb8ea486a613?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
+  caption: "Photo on [Unsplash](https://unsplash.com/photos/muq_ej7p9s0)"
 nbviewer: https://bit.ly/3lLCaFY
 mathjax: true
 tags:
@@ -11,7 +12,6 @@ tags:
   - insights
 ---
 
-# Wash your hands
 The medical origins of washing hands dates back to Dr. Semmelweis in mid 19th century. He managed to bring down the mortality rate of mothers giving birth, by emphasizing the importance of *washing hands*. Let's analyze the data that made Semmelweis realize that something was wrong with the procedures at Vienna General Hospital.
 
 ## Meet Dr. Ignaz Semmelweis
