@@ -16,7 +16,6 @@ tags:
   - sports
   - marketing
   - datacamp
-  - notebook
   - insights
 ---
 {% include /notebooks/datacamp.html %}

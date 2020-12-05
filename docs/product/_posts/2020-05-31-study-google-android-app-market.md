@@ -10,7 +10,6 @@ tags:
   - mobile apps
   - marketing
   - datacamp
-  - notebook
   - insights
 nbviewer: https://bit.ly/33dC7g0
 ---
