@@ -14,7 +14,7 @@ There are many things in our life that we accept and take for granted. After all
 
 We have better things to do than sit around pondering about questions like “Why is the sky blue”, “How do magnets work”, “What are time zones”, “What is gravity”. But exploring these questions makes the “(we have a) life” on Earth so fascinating. After all, scientific thinking is the reason you’re able to read this on a digital device halfway across the world from where I’m writing this now.
 
-As Richard Feynman puts it, it [so much fun to imagine](https://www.youtube.com/playlist?list=PL2D30B1DEFFDA0310)!
+As Richard Feynman puts it, it is [so much fun to imagine](https://www.youtube.com/playlist?list=PL2D30B1DEFFDA0310)!
 
 {% include figure image_path="/assets/images/unsplash-sergeiakulich.jpg" alt="Colorful sky" caption="Photo by Sergei Akulich on Unsplash" %}
 

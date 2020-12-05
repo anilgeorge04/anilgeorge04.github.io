@@ -20,7 +20,7 @@ My interests lie in data, sports, meditation, and education. I was the Founding 
 ### Subscribe to Minimal Cave
 For simple articles across data, business, programming, productivity and health.
 {% include feedburn-subscribe.html %}
-You can unsubscribe easily at any time. If you face any issues, [write to me](mailto:blog@minimalcave.com) directly.
+You can unsubscribe easily at any time. If you face any issues, [write to me](mailto:contact@minimalcave.com) directly.
 
 ### About the site
 This site runs for free, powered by the awesome open-source Ruby projects [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/). Email subscriptions are powered by RSS feed using [follow.it](https://follow.it/s/7z1U) and a native form.
