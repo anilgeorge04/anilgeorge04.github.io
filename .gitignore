@@ -2,20 +2,11 @@
 *~
 *.sw[p_]
 
-# VS Code
-.vscode/
-
 # Ruby Gem
 *.gem
 .bundle
 Gemfile.lock
 **/vendor/bundle
-
-# Node.js and NPM
-node_modules
-npm-debug.log*
-package-lock.json
-codekit-config.json
 
 # Jekyll generated files
 .jekyll-cache
@@ -26,3 +17,4 @@ _site
 
 # Local Files
 _drafts/
+_tinker/template.md
