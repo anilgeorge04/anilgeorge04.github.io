@@ -12,7 +12,7 @@ name                     : "Minimal Cave" # site author, shows up in Copyright a
 description              : "[Anil George](https://in.linkedin.com/in/anilgeorge04) fuels his curiosity, tinkers with data & technology, and writes here at Minimal Cave."
 url                      : "https://minimalcave.com" # base hostname & protocol for site
 baseurl                  : # the subpath of site, e.g. "/blog"
-repository               : "anilgeorge04/minimal-cave" # GitHub username/repo-name
+repository               : "anilgeorge04/anilgeorge04.github.io" # GitHub username/repo-name
 teaser                   : "/assets/images/cave-banner.jpg" # path of fallback teaser image for RELATED POSTS
 logo                     : "/assets/images/192x192.png" # path of logo image to display in the masthea
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
