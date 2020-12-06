@@ -11,6 +11,7 @@ tags:
   - datacamp
   - insights
 ---
+{% include /notebooks/datacamp.html %}
 
 The medical origins of washing hands dates back to Dr. Semmelweis in mid 19th century. He managed to bring down the mortality rate of mothers giving birth, by emphasizing the importance of *washing hands*. Let's analyze the data that made Semmelweis realize that something was wrong with the procedures at Vienna General Hospital.
 
