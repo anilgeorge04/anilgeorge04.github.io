@@ -11,7 +11,7 @@ main_image:
   alt: "Superbowl Halftime Show"
   caption: "&copy; NBC Sports"
 mathjax: true
-nbviewer: https://bit.ly/33iN7bP
+nbviewer: https://git.io/JIlR3
 tags:
   - sports
   - marketing

@@ -11,7 +11,7 @@ tags:
   - marketing
   - datacamp
   - insights
-nbviewer: https://bit.ly/33dC7g0
+nbviewer: https://bit.ly/39NUfAY
 ---
 {% include /notebooks/datacamp.html %} 
 
