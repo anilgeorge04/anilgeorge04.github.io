@@ -14,7 +14,7 @@ url                      : "https://minimalcave.com" # base hostname & protocol 
 baseurl                  : # the subpath of site, e.g. "/blog"
 repository               : "anilgeorge04/anilgeorge04.github.io" # GitHub username/repo-name
 teaser                   : "/assets/images/cave-banner.jpg" # path of fallback teaser image for RELATED POSTS
-logo                     : "/assets/images/192x192.png" # path of logo image to display in the masthea
+logo                     : "android-chrome-192x192.png" # path of logo image to display in the masthea
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -64,12 +64,12 @@ facebook:
   username               : 
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/192x192.png" # Open Graph/Twitter default site image, shows up while sharing as default
+og_image                 : "android-chrome-512x512.png" # Open Graph/Twitter default site image, shows up while sharing as default
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : Anil George # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
     - "https://twitter.com/anilgeorge04"
     - "https://github.com/anilgeorge04"
