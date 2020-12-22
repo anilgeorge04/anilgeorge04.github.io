@@ -1,24 +1,24 @@
 ---
-title: About me
+title: About
 layout: single
 permalink: /about/
 ---
-Hi, thanks for dropping by. 
+### About me
+Hi, I’m Anil. I like to build products, teams, and systems to scale ideas. Currently, I’m working on a couple of education projects at the school and undergrad level in India.
 
-I'm Anil. I like to build products, teams, and systems to scale ideas.
+I was the Vice President of Operations at [91springboard](https://www.91springboard.com/), India’s largest co-working chain. As employee #4, I wore different hats at different times to scale the organization to a ~$200mn firm with ~400 employees over 6 years. I’ve held sessions on Coworking Performance Metrics across conferences in [Europe](https://socialworkplaces.com/coworking-measure-metrics-business/) and South East Asia. Previously, I worked at [Mu Sigma](https://www.mu-sigma.com/) in Data Science & Management Consulting, and at [eBay](https://www.ebay.com/) in Software Development.
 
-I was the Vice President of Operations at [91springboard](https://www.91springboard.com/), India's largest co-working chain. I was part of the early team of 5 that grew the organization to a ~$200mn firm with ~400 employees over the last 6 years. I've held sessions (like [this](https://socialworkplaces.com/coworking-measure-metrics-business/)) on Coworking Performance metrics in multiple conferences. 
-Previously, I worked at [Mu Sigma](https://www.mu-sigma.com/) in Data Science & Consulting, and at [eBay](https://www.ebay.com/) in Software Development. 
-
-I completed my Postgraduate in Liberal Studies at the [Young India Fellowship](https://ashoka.edu.in/yif) Ashoka University in Delhi, and studied General Management at [IIM Bangalore](https://www.iimb.ac.in/home) & Computer Science at [PSG College of Technology](https://www.psgtech.edu/) Coimbatore.
+I completed my Postgraduate in Liberal Studies at the [Young India Fellowship](https://ashoka.edu.in/yif) from Ashoka University in Delhi and studied General Management at [IIM Bangalore](https://www.iimb.ac.in/home) & Computer Science at [PSG College of Technology](https://www.psgtech.edu/) Coimbatore.
 
 More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04/){: .btn .btn--linkedin}
 
+I’m interested in sports, meditation, education, data, and online learning. Ultimate Frisbee is a [big part](https://indiaultimate.org/2015-aouc-team-india) of my life.
 
-My interests lie in data, sports, meditation, and education. I was the Founding President of [Delhi Ultimate](https://www.facebook.com/pg/DelhiUltimate/about/), the official governing body for Ultimate Frisbee in Delhi & NCR. I [represented India](https://indiaultimate.org/2015-aouc-team-india) in Ultimate Frisbee at the Asia Championship in Hong Kong. I currently live in Goa, advise startups, and play for the state team here.
+### Why Minimal Cave?
+**Minimal**: for my love of simplicity.
+**Cave**: a cozy place for me to tinker around.
 
-### Subscribe to Minimal Cave
-For simple articles across data, business, programming, productivity and health.
+I explore data, analyze products, simplify concepts, and occasionally share snippets from my meditation journal here. I keep the format short and crisp. If any of this interests you, subscribe now and
 {% include feedburn-subscribe.html %}
 You can unsubscribe easily at any time. If you face any issues, [write to me](mailto:contact@minimalcave.com) directly.
 
