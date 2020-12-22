@@ -17,7 +17,7 @@ It is human to want. We often want the things that give us a sense of comfort - 
 
 {% include figure image_path="/assets/images/unsplash-good-vibes.jpg" alt="Good vibes" caption="Photo by Yaniv Knobel on Unsplash" %}
 
-The *good vibes only* culture seems to be riding the wave of Rhonda Byrne's 2006 self-help book 'The Secret'. The book talks about the 'Law of Attraction' as the *secret* to manifest your desires and control the Universe with your thoughts.
+The *good vibes only* culture seems to ride the wave of Rhonda Byrne's 2006 self-help book 'The Secret'. The book talks about the 'Law of Attraction' as the *secret* to manifest your desires and control the Universe with your thoughts.
 
 Does this mean we have to visualize and will away any temporary discomfort arising from negative thoughts? The Stoics don't think so.
 
