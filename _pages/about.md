@@ -12,7 +12,7 @@ I completed my Postgraduate in Liberal Studies at the [Young India Fellowship](h
 
 More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04/){: .btn .btn--linkedin}
 
-I’m interested in sports, meditation, education, data, and online learning. Ultimate Frisbee is a [big part](https://indiaultimate.org/2015-aouc-team-india) of my life.
+I’m interested in sports, meditation, education, products, data, and online learning.<br>Ultimate Frisbee is a [big part](https://indiaultimate.org/2015-aouc-team-india) of my life.
 
 ### Why Minimal Cave?
 **Minimal**: for my love of simplicity.
@@ -23,7 +23,7 @@ I explore data, analyze products, simplify concepts, and occasionally share snip
 You can unsubscribe easily at any time. If you face any issues, [write to me](mailto:contact@minimalcave.com) directly.
 
 ### About the site
-This site runs for free, powered by the awesome open-source Ruby projects [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/). Email subscriptions are powered by RSS feed using [follow.it](https://follow.it/s/7z1U) and a native form.
+This site runs for free, powered by the awesome open-source Ruby projects [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/). Email subscriptions are powered by RSS feed using [follow.it](https://follow.it/s/7z1U).
 
 All blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). All opinions and views are my own. They do not represent any organization I am/was affiliated with.
 
