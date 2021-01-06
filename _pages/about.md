@@ -16,7 +16,7 @@ I’m interested in sports, meditation, education, products, data, and online le
 
 ### Why Minimal Cave?
 **Minimal**: for my love of simplicity.
-**Cave**: a cozy place for me to tinker around.
+**Cave**: a quiet place for me to tinker around.
 
 I explore data, analyze products, simplify concepts, and occasionally share snippets from my meditation journal here. I keep the format short and crisp. If any of this interests you, subscribe now and
 {% include feedburn-subscribe.html %}
