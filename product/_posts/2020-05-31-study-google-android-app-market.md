@@ -11,6 +11,7 @@ tags:
   - marketing
   - datacamp
   - insights
+  - customer-behavior
 nbviewer: https://bit.ly/39NUfAY
 ---
 {% include /notebooks/datacamp.html %} 

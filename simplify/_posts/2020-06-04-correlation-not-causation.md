@@ -7,6 +7,7 @@ tags:
     - math
     - statistics
     - insights
+    - decision-making
 ---
 {% include figure image_path="/assets/images/pinterest-correlation.jpg" alt="Correlation all who eat chicken go to the moon" caption="Source: [Pinterest](https://www.pinterest.co.uk/pin/312296555380025188)" %}
 

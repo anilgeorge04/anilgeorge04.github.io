@@ -9,6 +9,7 @@ tags:
     - visualization
     - mental health
     - training
+    - stress-reduction
 ---
 ℹ️ **Disclaimer**: I practice Stoic meditation.
 {: .notice--info}
