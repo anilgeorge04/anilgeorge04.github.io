@@ -11,9 +11,6 @@ tags:
     - training
     - stress-reduction
 ---
-ℹ️ **Disclaimer**: I practice Stoic meditation.
-{: .notice--info}
-
 It is human to want. We often want the things that give us a sense of comfort - money, fame, love, and purpose. A life without these sounds uncomfortable. We're quick to imagine such a life to be one of poverty, loneliness and lack of purpose. But what if we were not so dramatic? 
 
 {% include figure image_path="/assets/images/unsplash-good-vibes.jpg" alt="Good vibes" caption="Photo by Yaniv Knobel on Unsplash" %}
