@@ -8,6 +8,8 @@ main:
     url: /categories/#just-curious
   - title: "All Posts"
     url: /all/
+  - title: "Recommendations"
+    url: /reco-list/
   - title: "Tinker"
     url: /tinker/
   - title: "About"
