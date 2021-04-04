@@ -1,16 +1,16 @@
 # main links
 main:
-  - title: "Product Thinking"
-    url: /categories/#product-thinking
-  - title: "Wellness"
-    url: /categories/#wellness
-  - title: "Just Curious"
-    url: /categories/#just-curious
+  # - title: "Product Thinking"
+  #   url: /categories/#product-thinking
+  # - title: "Wellness"
+  #   url: /categories/#wellness
+  # - title: "Just Curious"
+  #   url: /categories/#just-curious
   - title: "All Posts"
     url: /all/
   - title: "Recommendations"
     url: /reco-list/
-  - title: "Tinker"
-    url: /tinker/
+  - title: "Projects"
+    url: /projects/
   - title: "About"
     url: /about/
