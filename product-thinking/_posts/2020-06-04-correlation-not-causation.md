@@ -4,8 +4,7 @@ excerpt: "A mantra to deeply ingrain the data skeptic mindset"
 header:
     teaser: /assets/images/pinterest-correlation.jpg
 tags:
-    - math
-    - statistics
+    - metrics
     - insights
     - decision-making
 ---
