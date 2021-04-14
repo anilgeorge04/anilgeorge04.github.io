@@ -9,7 +9,6 @@ header:
 tags:
   - mobile apps
   - marketing
-  - datacamp
   - insights
   - customer-behavior
 nbviewer: https://bit.ly/39NUfAY

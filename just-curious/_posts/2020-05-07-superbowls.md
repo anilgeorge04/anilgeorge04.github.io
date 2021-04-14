@@ -15,7 +15,6 @@ nbviewer: https://git.io/JIlR3
 tags:
   - sports
   - marketing
-  - datacamp
   - insights
 ---
 {% include /notebooks/datacamp.html %}

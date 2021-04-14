@@ -8,7 +8,7 @@ nbviewer: https://bit.ly/3lLCaFY
 mathjax: true
 tags:
   - medical
-  - datacamp
+  - covid19
   - insights
 ---
 {% include /notebooks/datacamp.html %}

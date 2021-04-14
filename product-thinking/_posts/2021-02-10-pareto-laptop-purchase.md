@@ -7,7 +7,6 @@ header:
 tags:
   - mental-model
   - customer-behavior
-  - pareto
   - stress-reduction
   - decision-making
 ---
