@@ -10,14 +10,14 @@ A regularly updated list of my recommendations.
 - [Farnam Street](https://fs.blog/) and [The Knowledge Project](https://fs.blog/knowledge-project/)
 - [Making Sense](https://samharris.org/podcast/) with Sam Harris
 - [Stratechery](https://stratechery.com/) and [Exponent](https://exponent.fm/)
-- [Paul Graham](http://paulgraham.com/)
+- [Paul Graham](http://paulgraham.com/) essays
 - [Seth Godin](https://seths.blog/) and [Akimbo](https://www.akimbo.link/)
 - [Tim Ferris](https://tim.blog/podcast/)
 - [Masters of Scale with Reid Hoffman](https://mastersofscale.com/)
 - [The Prof G Show with Scott Galloway](https://open.spotify.com/show/5Ob5psTjoUtIGYxKUp2QVy)
 - The Hustle's [My First Million](https://thehustle.co/my-first-million-podcast/)
 - [Tech Meme Ride Home](https://www.ridehome.info/show/techmeme-ride-home/)
-- [Morning Brew](https://www.morningbrew.com/daily/r?kid=5f1c3348)
+- [Morning Brew](https://www.morningbrew.com/daily/r?kid=5f1c3348) and [Founder's Journal](https://art19.com/shows/the-founders-journal)
 - [Finshots](https://finshots.in/)
 - [The Ken](https://the-ken.com/join/?code=Anil-NTk5NDM=) and [Unofficial Sources](https://open.spotify.com/show/0bAeCQeb8MafkJ7KaHwUlw)
 - [Stuff You Should Know](https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/)
@@ -38,7 +38,6 @@ A regularly updated list of my recommendations.
 
 #### Programming & Data Science
 - [DataCamp](https://www.datacamp.com?tap_a=5644-dce66f&tap_s=1596029-2af4dc&utm_medium=affiliate&utm_source=anilgeorge) (Monthly & Annual subscriptions)
-- [Harvard CS50 Introduction to Computer Science](https://cs50.harvard.edu/x/2021/) by Prof. David Malan (Free)
 - [FreeCodeCamp](https://www.freecodecamp.org/) (Free)
 
 #### Pursuing Curiosity
@@ -46,3 +45,4 @@ A regularly updated list of my recommendations.
 - [Minute Physics](https://www.youtube.com/user/minutephysics/)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/)
 - [Vsauce2](https://www.youtube.com/user/Vsauce2/)
+- [Brilliant](https://brilliant.org/) (Paid subscription)
