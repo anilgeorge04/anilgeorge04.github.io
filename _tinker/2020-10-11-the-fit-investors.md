@@ -1,8 +1,8 @@
 ---
 excerpt: A trading simulation for US Stocks. Sandbox account for veteran and new investors alike.
 header:
-    teaser: /assets/images/traintotrade.jpg
-    overlay_image: /assets/images/traintotrade.jpg
+    teaser: /assets/images/tinker/traintotrade.jpg
+    overlay_image: /assets/images/tinker/traintotrade.jpg
     overlay_filter: 0.5
     caption: For illustration purpose only
     actions:
@@ -12,7 +12,7 @@ buttons:
     app: http://thefitinvestors.com
     github: https://github.com/anilgeorge04/train-to-trade
 main_image:
-    image_path: /assets/images/traintotrade.jpg
+    image_path: /assets/images/tinker/traintotrade.jpg
     alt: Fit Investors
     caption: Sample portfolio for illustration purpose only
 tags:

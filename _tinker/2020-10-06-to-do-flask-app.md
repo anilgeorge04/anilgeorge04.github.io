@@ -1,12 +1,12 @@
 ---
 excerpt: To-do app with CRUD operations using Flask
 header:
-    teaser: /assets/images/flasktodo.jpg
+    teaser: /assets/images/tinker/flasktodo.jpg
 buttons:
     app: https://flaskcrud-apptodo.herokuapp.com/
     github: https://github.com/anilgeorge04/todo-flask
 main_image:
-    image_path: /assets/images/flasktodo.jpg
+    image_path: /assets/images/tinker/flasktodo.jpg
     alt: Flask To Do
 tags:
     - flask

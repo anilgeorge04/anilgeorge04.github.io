@@ -1,12 +1,12 @@
 ---
 excerpt: Find your favorite movies and TV shows faster
 header:
-    teaser: /assets/images/chill-where.jpg
+    teaser: /assets/images/tinker/chill-where.jpg
 buttons:
     app: https://www.minimalcave.com/chillwhere
     github: https://github.com/anilgeorge04/chillwhere
 main_image:
-    image_path: /assets/images/chill-where.jpg
+    image_path: /assets/images/tinker/chill-where.jpg
     alt: Chill Where
 tags:
     - webprogramming

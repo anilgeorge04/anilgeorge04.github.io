@@ -2,13 +2,13 @@
 title: Build a free website
 excerpt: Build website from scratch using open source themes
 header:
-    teaser: /assets/images/cave-banner.jpg
+    teaser: /assets/images/tinker/cave-banner.jpg
     caption: Photo from Unsplash
 buttons:
     app: https://anilgeorge04.github.io/firststep/
     github: https://github.com/anilgeorge04/firststep
 main_image:
-    image_path: /assets/images/cave-banner.jpg
+    image_path: /assets/images/tinker/cave-banner.jpg
     alt: Minimal Cave
     caption: Photo from Unsplash
 tags:
