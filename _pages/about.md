@@ -19,13 +19,13 @@ More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04/){: .btn .btn--linke
 I follow my curiosity, explore data, analyze products, simplify concepts, and look to learn here. I keep the format short and crisp. I want to start an open discussion around mental, physical, and financial well-being of folks early in their career. 
 
 If any of this interests you, subscribe now and
-{% include feedburn-subscribe.html %}
+{% include feed-subscribe.html %}
 You can unsubscribe easily at any time. If you face any issues, [write to me](mailto:contact@minimalcave.com) directly.
 
 ### About the site
 This site is another project I enjoy tinkering around with. It exposed me to the absolute brilliance of open-source tools and community.
 
-Powered by the Ruby projects [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/), the entire website runs for free. [Disqus](https://disqus.com/) runs the comment system and discussions while [follow.it](https://follow.it/s/7z1U) powers the email subscriptions via RSS feed.
+Powered by the Ruby projects [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/), the entire website runs for free. [Disqus](https://disqus.com/) runs the comments and discussions while [Mailchimp](http://eepurl.com/hwsf0n) powers the email subscriptions.
 
 I release all blog posts under a Creative Commons [License](https://creativecommons.org/licenses/by-sa/4.0/). All opinions and views are my own. They do not represent any organization I am/was affiliated with.
 
