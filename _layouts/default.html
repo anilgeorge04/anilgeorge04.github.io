@@ -5,8 +5,10 @@
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
     {% include head.html %}
+    <!-- start custom head snippets -->
     {% include head/favicons.html %}
     {% include head/mailchimp.html %}
+    <!-- end custom head snippets -->
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
