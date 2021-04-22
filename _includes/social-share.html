@@ -1,10 +1,10 @@
 <section class="page__share">
-  <p class="small"><i>Enjoyed this post? Never miss out on future posts. <a
-        href="https://follow.it/minimal-cave?action=followPub">Follow Minimal Cave</a></i><a
-      href="https://follow.it/minimal-cave?action=followPub" class="btn"><img
-        src="/assets/images/follow-icon.png" class="icon-follow" aria-hidden="true"></img></a></p>
-  <strong>Share on </strong><a
-    href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username | url_encode }}&{% endif %}text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"
+  <p class="small"><i>Enjoyed this post? Never miss out on future posts
+      <a href="https://minimalcave.us1.list-manage.com/subscribe/post?u=28ab51f30b93eb175a06d0002&amp;id=bdb153b94e"
+        class="btn btn--inverse">Subscribe to Minimal Cave</a></i>
+  </p>
+  <strong>Share on </strong>
+  <a href="https://twitter.com/intent/tweet?{% if site.twitter.username %}via={{ site.twitter.username | url_encode }}&{% endif %}text={{ page.title | url_encode }}%20{{ page.url | absolute_url | url_encode }}"
     class="btn btn--twitter"
     onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
     title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i
