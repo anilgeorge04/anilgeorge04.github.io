@@ -4,7 +4,7 @@ excerpt: "Proactive leaders now use Agile practices to transform nearly every ot
 header:
     teaser: /assets/images/agile/agilemanifesto.png
 tags:
-    - decision-making
+    - decision making
     - metrics
     - software development
     - project management

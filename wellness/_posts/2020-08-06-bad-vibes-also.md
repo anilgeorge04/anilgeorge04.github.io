@@ -7,7 +7,7 @@ header:
 tags:
     - stoicism
     - mental health
-    - stress-reduction
+    - stress reduction
 ---
 It is human to want. We often want the things that give us a sense of comfort - money, fame, love, and purpose. A life without these sounds uncomfortable. We're quick to imagine such a life to be one of poverty, loneliness and lack of purpose. But what if we were not so dramatic? 
 

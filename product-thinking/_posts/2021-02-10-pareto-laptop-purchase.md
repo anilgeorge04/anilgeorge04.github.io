@@ -5,10 +5,10 @@ header:
   teaser: assets/images/unsplash-pareto.jpg
   caption: "Photo by Austin Distel on [Unsplash](https://unsplash.com/s/photos/pareto)"
 tags:
-  - mental-model
-  - customer-behavior
-  - stress-reduction
-  - decision-making
+  - mental model
+  - customer behavior
+  - stress reduction
+  - decision making
 ---
 
 I was recently on the search for my next laptop after I handed down my longstanding Lenovo ThinkPad to my nephew. Deciding on one really put my minimalism values to test. There are so many parts to understand and form an opinion on. I found that the deeper you go into the rabbit-hole of internet reviews about different laptops, the harder it gets to come out of it with a decision. I needed help. So I went to my trusted ally - **Pareto**.

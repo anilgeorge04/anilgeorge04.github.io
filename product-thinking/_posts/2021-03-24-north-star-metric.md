@@ -4,9 +4,9 @@ excerpt: "What's the best KPI to track?"
 header:
     teaser: /assets/images/north-star/undraw_datapoints.png
 tags:
-    - decision-making
+    - decision making
     - metrics
-    - mental-model
+    - mental model
 ---
 We track metrics to measure progress. From a specific feature within a product to an entire business, metrics help us make quantitative sense of performance. So the secret is to identify the Key Performance Indicators (KPI) to track.
 

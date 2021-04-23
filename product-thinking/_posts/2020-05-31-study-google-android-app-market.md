@@ -10,7 +10,7 @@ tags:
   - mobile apps
   - marketing
   - insights
-  - customer-behavior
+  - customer behavior
 nbviewer: https://bit.ly/39NUfAY
 ---
 {% include /notebooks/datacamp.html %} 
