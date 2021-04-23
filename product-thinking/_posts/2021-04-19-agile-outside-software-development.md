@@ -24,7 +24,7 @@ Atlassian, a leading maker of agile products & tools defines Agile as
 
 This was a break from traditional software development cycles where the focus is on one grand product launch. Such an approach warrants excessive planning and documentation, eventually losing sight of what really matters to the customer. 
 
-Instead, an agile team focuses on iterating and delivering consistently with small increments. The team keeps a continuous check on product requirements, feedback, and measures. So, successful agile teams build the muscle to respond to changes quickly.
+Instead, an agile team focuses on iterating and delivering consistently in small increments. The team keeps a continuous check on product requirements, feedback, and measures. So, successful agile teams build the muscle to respond to changes quickly.
 
 The *Agile Manifesto* values:
 
