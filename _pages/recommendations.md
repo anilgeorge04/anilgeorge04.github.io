@@ -32,13 +32,13 @@ A regularly updated list of my recommendations.
 
 ## Learning Resources
 #### Starting Up & Product Management
-- [Startup School](https://www.startupschool.org/) by YCombinator (Free)
+- [Startup School](https://www.startupschool.org/) by YCombinator
 - [Become a Product Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/) on Udemy (Paid)
 - [Product School](https://productschool.com/free-product-management-resources/)'s Free Resources
 
 #### Programming & Data Science
 - [DataCamp](https://www.datacamp.com?tap_a=5644-dce66f&tap_s=1596029-2af4dc&utm_medium=affiliate&utm_source=anilgeorge) (Monthly & Annual subscriptions)
-- [FreeCodeCamp](https://www.freecodecamp.org/) (Free)
+- [FreeCodeCamp](https://www.freecodecamp.org/)
 
 #### Pursuing Curiosity
 - [Crash Course](https://www.youtube.com/user/crashcourse)
