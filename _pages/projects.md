@@ -8,6 +8,10 @@ classes: wide
 sort_by: date
 sort_order: reverse
 feature_row:
+  - url: https://openlearnindia.org
+    image_path: /assets/images/projects/twitter_profile_oli.png
+    title: "Open Learn India"
+    excerpt: "Open source repository of free online learning resources mapped to the Indian curriculum"
   - url: https://www.linkedin.com/posts/anilgeorge04_community-1st-mutualfunds-activity-6784107382541840384-Ypre
     image_path: /assets/images/projects/jupiter.png
     title: "Jupiter Money"
