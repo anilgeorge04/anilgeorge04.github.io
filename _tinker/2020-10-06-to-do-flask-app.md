@@ -1,5 +1,5 @@
 ---
-excerpt: To-do app with CRUD operations using Flask
+excerpt: Implement end-to-end CRUD operations using the Flask micro web framework
 header:
     teaser: /assets/images/tinker/flasktodo.jpg
 buttons:

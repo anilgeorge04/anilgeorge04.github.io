@@ -1,5 +1,5 @@
 ---
-excerpt: Find your favorite movies and TV shows faster
+excerpt: Quick and lazy way to search for movies and shows across OTT platforms
 header:
     teaser: /assets/images/tinker/chill-where.jpg
 buttons:

@@ -1,5 +1,5 @@
 ---
-excerpt: A trading simulation for US Stocks. Sandbox account for veteran and new investors alike.
+excerpt: "Real-time trading simulation with US Stocks: handy for new & old investors"
 header:
     teaser: /assets/images/tinker/traintotrade.jpg
     overlay_image: /assets/images/tinker/traintotrade.jpg

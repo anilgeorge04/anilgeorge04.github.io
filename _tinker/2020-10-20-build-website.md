@@ -1,6 +1,6 @@
 ---
 title: Build a free website
-excerpt: Build website from scratch using open source themes
+excerpt: Best way to learn HTML/CSS/JS - Build a website with some Open Source help
 header:
     teaser: /assets/images/tinker/cave-banner.jpg
     caption: Photo from Unsplash
