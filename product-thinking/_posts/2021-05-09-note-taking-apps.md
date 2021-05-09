@@ -30,13 +30,13 @@ Did you know that the note-taking industry is a **billion dollar market?**
 
 > According to [Verified Market Research](https://www.verifiedmarketresearch.com/product/note-making-management-software-market/), the Global Note-Taking Management Software Market was valued at USD 897.7 Million in 2018 and is projected to reach USD 1.35 Billion by 2026, growing at a CAGR of 5.32% from 2019 to 2026.  
 
-There are 20+ popular products in the market today, viz. OneNote, Evernote, Todoist, Google Docs, Dynalist, Notion, Coda, Roam Research, Obsidian, RemNote, etc. Their features and the core problem they attempt to solve differentiate them. One excels at being a minimal to-do list without frills, while another organizes your information in tables and views with logical formulas. It is hard to compare them directly. But most of these apps share the common goal of letting users write and organize information easily.
+There are 20+ popular products in the market today, viz. OneNote, Evernote, Todoist, Google Docs, Dynalist, Notion, Coda, Roam Research, Obsidian, RemNote, etc. Their features and the core problem they attempt to solve differentiate them. One excels at being a minimal to-do list without frills, while another organizes your information in tables and views with logical formulas. It is hard to compare them directly. But almost all of them share the common goal of letting users write and organize information easily.
 
 ## Feature Table for Comparison
-In the table below, I run through 5 popular note-taking apps in 2021 across features that I found to be important. Depending on the OS you are on, I recommend you also check out OneNote (windows) or Notability (mac).
+You can collaborate with others over most of these apps. This is extremely useful for projects where you are working with others. But this article prioritizes Personal Knowledge Management use cases of an individual. Features available in the free tier therefore become even more important. In the table below, I run through 5 popular note-taking apps in 2021 and some of their key features. Depending on the OS you are on, I recommend you also check out OneNote (windows) or Notability (mac).
 
-**Notice**
-Disclaimer: Rising competition, innovation from new entrants, and upgrades from incumbents is rapidly improving the feature set.
+**Disclaimer**: Rising competition and innovation from new entrants and incumbents is rapidly improving the feature set. Apologies if the app or feature you swear by does not feature here today.
+{: .notice--info}
 
 | About                       | Features & Factors         | Evernote                                                                                                    | Roam Research                                                                                               | Obsidian                                                                                                    | Remnote                                                                                                     | Notion                                                                                                      |
 | --------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -81,20 +81,21 @@ This method may seem intimidating or very basic, depending on where you are in t
 #### The Project Manager
 I use Notion to project manage different aspects of my life and break projects down into tasks. What I like the most about Notion is that it allows you to build very custom solutions for your use case with diverse building blocks. 
 
-*Some interesting [Notion Templates in this Gallery](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d)* {: .notice}
+Browse through the [Notion Templates in this Gallery](https://www.notion.so/Notion-Template-Gallery-181e961aeb5c4ee6915307c0dfd5156d) to get an idea of the diversity of solutions you can build.
+{: .notice}
 
 I use the tables and filtered views the most. This is roughly 80% of my use-case. I love that each row in a table is also a full-fledged page. Notion, as a company, deeply cares about design. This flows through into all areas of their product. It is a delight to make pages, add widgets, and write on Notion. It feels crisp and elegant. I also love that you can spin up a website out of any Notion page and publish it quickly. But they need to improve on load time of pages on their web, desktop, and mobile apps. Also, many features do not work offline. This is where Obsidian comes in.
 
 #### The Writer
-I use the Obsidian Desktop app for almost all my writing. This includes journaling, making detailed notes and linking between them, making daily plans, writing my blog drafts, etc. Writing in markdown makes it seamless to publish to my Jekyll powered blog ([About - Minimal Cave](/about/#about-the-site)). The app is light, offline, and quick to load up. I reach faster to the page where I want to write. I categorize my notes across sections and vaults. The [knowledge graph](https://help.obsidian.md/Plugins/Graph+view) generated from [backlinks](https://help.obsidian.md/Plugins/Backlinks) is quite cool too. More objectively, I have written 5x more after moving to Obsidian. They have a [mobile app running closed beta](https://forum.obsidian.md/t/mobile-closed-beta-started-for-catalyst-vips-later-to-supporters-and-insiders/14461) right now. Until this becomes available to all users, I need a light-weight mobile app.
+I use the Obsidian Desktop app for almost all my writing. This includes journaling, making detailed notes and linking between them, making daily plans, writing my blog drafts, etc. Writing in markdown makes it seamless to publish to my Jekyll powered blog ([About the Site - Minimal Cave](/about/#about-the-site)). The app is light, offline, and quick to load up. I reach faster to the page where I want to write. I categorize my notes across sections and vaults. The [knowledge graph](https://help.obsidian.md/Plugins/Graph+view) generated from [backlinks](https://help.obsidian.md/Plugins/Backlinks) is quite cool too. More objectively, I have written 5x more after moving to Obsidian. They have a [mobile app running closed beta](https://forum.obsidian.md/t/mobile-closed-beta-started-for-catalyst-vips-later-to-supporters-and-insiders/14461) right now. Until this becomes available to all users, I need a light-weight mobile app.
+
+**Special Case:** When I need to collaborate with others digitally, I go with Google Docs for writing and Google Sheets for Project Management. This is because most people are already familiar with the product. And the ones who are new, they find it easy and intuitive to pick up.
+{: .notice--success}
 
 #### On the move
 When I'm away from my laptop, I make my quick notes on Google Keep because it is super light (Notion is not!). This may be a random thought or insight, or a to-do item, or a grocery list. I transfer the relevant ones later to Notion or Obsidian. Once the Obsidian mobile app becomes available to all users, I will eliminate Google Keep from my workflow.
 
 The information on Notion is available to me via the mobile and desktop app. Obsidian is a desktop app that renders markdown files from a folder that you point it to. I store these files in folders that are synced to the cloud. So this allows me to access to the information anywhere on any device.
-
-**Notice**
-When I need to collaborate with others over a written document, I start with Google Docs/Sheets for the ease of setup. It has a lower barrier of entry than most other apps because most people are already familiar with the product.
 
 #### Pen and Paper
 The digital apps will not do away with my love for pen and paper. I schedule my day, prioritize tasks, and make some quick notes on paper. I also prefer making handwritten notes with diagrams while learning. Organizing this information and retrieving them later is difficult. I ordered a tablet with a stylus yesterday to transition this activity onto a digital platform. Too early to comment further here, but I imagine some of these notes will find its way to Obsidian as images.
@@ -103,7 +104,9 @@ The digital apps will not do away with my love for pen and paper. I schedule my 
 If you already use some digital apps, you will want to migrate your old notes into your new system. If you have reached this far, I assume organizing information rocks your boat too. Switching cost is real. Check if the app you choose allows you to migrate all notes from your existing app(s) easily. This was a relief for me when I moved from Evernote to Notion. But it was not as straightforward either. It is a bonus if the app you choose allows you to export notes easily to migrate elsewhere in the future. You will thank yourself later.
 
 ## Closing Thoughts
-Define your use cases, workflow, and priorities. Spend more time upfront listing them down. This requirement definition step is the 20% input that will yield 80% of the results (few weeks ago I wrote about [Pareto principle to make better decisions](/product-thinking/pareto.md)). You should be able to write, revisit, process, and use your notes in the future and apply in the right context. This is far more important than hoarding a lot of information.
+Few weeks ago I wrote about [Pareto principle to make better decisions](/product-thinking/pareto-laptop-purchase/). Defining your use cases, workflow, and priorities clearly is the the 20% input that will yield 80% of the results.
+
+Your [North Star](/product-thinking/north-star-metric/) should be to write, revisit, process, and use your notes in the future and apply in the right context. This is far more important than hoarding a lot of information.
 
 #### Figure out
 Do you need the app(s) to manage tasks and projects? Tables on Notion and Coda work well. 
@@ -119,7 +122,7 @@ Visualize your workflow, answer the questions you listed, and prioritize what ma
 {% include figure image_path="/assets/images/notetaking/lotr-ring.jpg" caption="Image by Pau Llopart Cervello from Pixabay"%}
 Over time, I have become relatively app agnostic with organizing information. Evernote served me well for many years, despite its challenges. RemNote with its flash cards felt promising, but I did not enjoy the interface. Obsidian and Notion are the winners right now, despite its points of friction. Switching cost is real. This entire exercise becomes self-defeating if you spend lesser time writing and executing on tasks and more time finding the best app and designing the best system.
 
-Most of the note-taking apps are evolving rapidly. So my recommendation is to find the path with least resistance to implement your workflow and system. I’m a big fan of ‘set it & forget it’. Design the system and review it once a year. Shift your focus entirely on getting things done.
+Most of the note-taking apps are evolving rapidly. So my recommendation is to find the path of least resistance to implement your workflow and overall system. I’m a fan of ‘set it & forget it’. Design the system and review it once a year. Shift your focus entirely on getting things done.
 
 Happy writing and planning! Hope your second brain turns your ideas into reality.
 
