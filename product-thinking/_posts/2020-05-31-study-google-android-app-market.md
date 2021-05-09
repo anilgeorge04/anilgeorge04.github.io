@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.5
   teaser: /assets/images/playstore_notebook_files/notebook_9_0.png
 tags:
-  - mobile apps
+  - applications
   - marketing
   - insights
   - customer behavior
