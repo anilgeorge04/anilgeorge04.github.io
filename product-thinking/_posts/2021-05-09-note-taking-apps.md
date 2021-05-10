@@ -80,7 +80,32 @@ You can collaborate and integrate third-party services over most of these apps. 
 
 I skipped few important features above because they all offer them. This includes features like text formats, attachments, search, tags, task lists, PDF export, note-sharing, dark mode, keyboard shortcuts, emojis, and more.
 
-On the free plans, Obsidian and Notion won on multiple parameters of importance to me.
+Once I listed down my use cases and workflow, I realized that the following features were most important to me:
+
+**Must have**
+- Rich feature set in free tier for personal use
+- Clean and minimal design with extension capabilities (plugins, templates etc.)
+- Tables to organize, manage, and review information and projects (In the [workflow section](#my-workflow) below, I talk more about the PARA method that I use)
+- Tables to aggregate numbers, and provision of different data types
+- Easy to link between my notes
+- Bookmark articles from browser (extension)
+- Desktop app (native Windows)
+
+**Good to have**
+- Quick, responsive app with offline access
+- Mobile app (Android and iOS) for my phone and iPad
+- Lower switching cost (example: Notion has a nifty import from Evernote feature)
+- Responsive user community forums
+- Create basic graphs and charts from numbers in the table
+- Typing and interacting with the interface should 'feel' good
+
+**Wishlist**
+- A single app to take care of all my Personal Knowledge Management use cases
+- Collaborate with others (on free plan)
+- Publish to URL (on free plan)
+- Knowledge Graph View to visualize bi-directional links between notes
+
+A single app did not cut it for me. But Obsidian and Notion together won on multiple parameters and helped me design the Personal Knowledge Management system I use today.
 
 ## My Workflow
 {% include figure image_path="/assets/images/notetaking/braintabs-unsplash.jpg" caption="Image Credit: ['That's Her Business'](https://unsplash.com/@thatsherbusiness) on Unsplash"%}
