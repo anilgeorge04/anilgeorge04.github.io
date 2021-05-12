@@ -2,23 +2,22 @@
 title: My Recommendations
 layout: single
 permalink: /reco-list/
-last_modified_at: 2021-04-29T11:50:00+05:30
+last_modified_at: 2021-05-10T11:50:00+05:30
 ---
-A short list of places to learn from. I have a bias for podcasts and videos.
-{: .notice--warning}
+Here's a short list of places on the internet where I've learnt a ton from.
 
 ## Blogs/Newsletters & Podcasts
 #### Thinking & Building
 - [Farnam Street](https://fs.blog/) and [The Knowledge Project](https://fs.blog/knowledge-project/) with Shane Parrish
 - [Paul Graham](http://paulgraham.com/) essays
 - [Masters of Scale](https://mastersofscale.com/) with Reid Hoffman
-- [The Prof G Show](https://open.spotify.com/show/5Ob5psTjoUtIGYxKUp2QVy) with Scott Galloway
-- The Hustle's [My First Million](https://thehustle.co/my-first-million-podcast/)
 - [Stratechery](https://stratechery.com/) and [Exponent](https://exponent.fm/)
+- [The Prof G Show](https://open.spotify.com/show/5Ob5psTjoUtIGYxKUp2QVy) with Scott Galloway
 
 #### Business News
 - [Morning Brew](https://www.morningbrew.com/daily/r?kid=5f1c3348) and [Founder's Journal](https://art19.com/shows/the-founders-journal)
 - [Finshots Daily](https://finshots.in/)
+- [The Hustle Daily](https://thehustle.co/) and [My First Million](https://thehustle.co/my-first-million-podcast/) with Sam Parr & Shaan Puri
 - [The Ken](https://the-ken.com/join/?code=Anil-NTk5NDM=) and [Unofficial Sources](https://open.spotify.com/show/0bAeCQeb8MafkJ7KaHwUlw)
 - [Tech Meme Ride Home](https://www.ridehome.info/show/techmeme-ride-home/)
 
@@ -36,7 +35,8 @@ A short list of places to learn from. I have a bias for podcasts and videos.
 #### Starting Up & Product Management
 - [Startup School](https://www.startupschool.org/) by YCombinator
 - [Become a Product Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/) on Udemy (Paid)
-- [Product School](https://productschool.com/free-product-management-resources/)'s Free Resources
+- [Product School](https://productschool.com/free-product-management-resources/)'s Free Resources & Podcasts
+- Book: Inspired by Marty Cagan ([Amazon](https://amzn.to/2RPj48D))
 
 #### Programming & Data Science
 - [DataCamp](https://www.datacamp.com?tap_a=5644-dce66f&tap_s=1596029-2af4dc&utm_medium=affiliate&utm_source=anilgeorge) (Monthly & Annual subscriptions)
@@ -44,7 +44,7 @@ A short list of places to learn from. I have a bias for podcasts and videos.
 
 #### Pursue Curiosity
 - [Crash Course](https://www.youtube.com/user/crashcourse)
+- [Brilliant](https://brilliant.org/) (Paid subscription)
 - [Minute Physics](https://www.youtube.com/user/minutephysics/)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/)
 - [Vsauce2](https://www.youtube.com/user/Vsauce2/)
-- [Brilliant](https://brilliant.org/) (Paid subscription)
