@@ -7,9 +7,9 @@ minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "d
 title                    : "Minimal Cave"
 locale                   : "en"
 title_separator          : "-"
-subtitle                 : "Following my curiosity" # site tagline that appears below site title in masthead
+subtitle                 : "Follow your curiosity" # site tagline that appears below site title in masthead
 name                     : "Minimal Cave" # site author, shows up in Copyright at the footer
-description              : "Hi, I am [Anil George](https://in.linkedin.com/in/anilgeorge04), a startup enthusiast and athlete. I tinker around and talk Products & Data. I am interested in discussing 3 pillars of Wellness - Physical, Mental, and Financial."
+description              : "Hi, I am [Anil George](https://in.linkedin.com/in/anilgeorge04), a startup enthusiast and athlete. I mainly discuss Products & Data and tinker around here. I also discuss 4 pillars of Wellness - Education, Physical, Mental, and Financial health."
 url                      : "https://minimalcave.com" # base hostname & protocol for site
 baseurl                  : # the subpath of site, e.g. "/blog"
 repository               : "anilgeorge04/anilgeorge04.github.io" # GitHub username/repo-name
