@@ -268,8 +268,7 @@ defaults:
       type: tinker
     values:
       layout: single
-      show_date: true
-      author_profile: true
+      author_profile: false
       share: true
       related: true
 
