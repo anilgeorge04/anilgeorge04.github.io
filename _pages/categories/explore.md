@@ -1,8 +1,8 @@
 ---
-title: "Just Curious"
-taxonomy: just-curious
+title: "Explore"
+taxonomy: explore
 layout: category
-permalink: /categories/just-curious
+permalink: /categories/explore
 classes: wide
 entries_layout: grid
 sidebar:
