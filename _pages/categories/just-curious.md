@@ -8,4 +8,4 @@ entries_layout: grid
 sidebar:
     nav: "categories"
 ---
-Curious and looking to explore data and learn something new & interesting.
+Curious and looking to explore something interesting? Let's dive in

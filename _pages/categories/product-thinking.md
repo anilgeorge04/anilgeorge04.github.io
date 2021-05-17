@@ -8,5 +8,4 @@ entries_layout: grid
 sidebar:
     nav: "categories"
 ---
-<!-- [Go to All Posts](/categories/){: .btn .btn--info} -->
-Solve problems, use mental models, study products, and create value.
+Study products & markets, use mental models, discuss metrics, and more
