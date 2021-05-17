@@ -1,12 +1,12 @@
 ---
 layout: collection
-title: Projects
-permalink: /projects/
 collection: tinker
-entries_layout: grid
-classes: wide
 sort_by: date
 sort_order: reverse
+classes: wide
+title: Projects
+permalink: /projects/
+classes: wide
 feature_row:
   - url: https://openlearnindia.org
     image_path: /assets/images/projects/twitter_profile_oli.png
@@ -25,10 +25,7 @@ feature_row:
     title: "sāmShiksha"
     excerpt: "Curating courses across interests and disciplines to augment college education in India"
 ---
-Building in the areas of Personal Finance & Education.
-
 ### Organizations
+Building in the areas of Personal Finance & Education.
 {% include feature_row %}
-
-### Tinker Cave
-Learning new things by tinkering around with tech.
+## Tinkering around to learn CS basics

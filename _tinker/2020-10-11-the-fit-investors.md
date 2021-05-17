@@ -1,4 +1,5 @@
 ---
+permalink: /tinker/thefitinvestors/
 excerpt: "Real-time trading simulation with US Stocks: handy for new & old investors"
 header:
     teaser: /assets/images/tinker/traintotrade.jpg

@@ -1,4 +1,5 @@
 ---
+permalink: /tinker/chillwhere/
 excerpt: Quick and lazy way to search for movies and shows across OTT platforms
 header:
     teaser: /assets/images/tinker/chill-where.jpg
