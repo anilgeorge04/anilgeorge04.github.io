@@ -16,7 +16,7 @@ More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04/){: .btn .btn--linke
 **Minimal**: for my love of simplicity.
 **Cave**: a quiet place for me to tinker around.
 
-I follow my curiosity, explore data, analyze products, simplify concepts, and look to learn here. I keep the format short and crisp. I want to start an open discussion around mental, physical, and financial well-being of folks early in their career. 
+I follow my curiosity, explore data, analyze products, simplify concepts, and look to learn here with you. I keep the format short and crisp.
 
 If any of this interests you, subscribe now and
 {% include feed-subscribe.html %}
