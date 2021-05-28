@@ -22,4 +22,5 @@ If you're visitng the app for the first time, MyBinder takes some time to load
 - **Host**: Jupyter Notebook rendered by [Voila](https://voila.readthedocs.io/en/stable/using.html) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/anilgeorge04/eda-notes/HEAD?urlpath=%2Fvoila%2Frender%2Fdashboards%2Fcovid-19-dashboard.ipynb)
 - **Data**: [COVID19-India API](https://api.covid19india.org/)
 
+---
 ## Related Posts
