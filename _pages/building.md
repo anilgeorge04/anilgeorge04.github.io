@@ -25,7 +25,8 @@ feature_row:
     title: "sāmShiksha"
     excerpt: "Curating courses across interests and disciplines to augment college education in India"
 ---
+Projects I'm working on.
 ## In Education
 {% include feature_row %}
 
-### Tinkering around to learn CS basics
+## Tinkering around to learn
