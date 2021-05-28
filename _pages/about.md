@@ -2,6 +2,7 @@
 title: About
 layout: single
 permalink: /about/
+author_profile: true
 ---
 ### About me
 Hi, I’m Anil - a startup enthusiast and an Ultimate Frisbee [athlete](https://indiaultimate.org/2015-aouc-team-india). I like to build products, teams, and systems to scale ideas. Currently, I’m consulting with a few early-stage startups.
