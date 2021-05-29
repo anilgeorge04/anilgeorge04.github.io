@@ -1,5 +1,5 @@
 ---
-title: "North Star Metric - The secret to setting KPIs the right way"
+title: "North Star Metric - The secret to smart KPIs"
 excerpt: "What's the best KPI to track?"
 header:
     teaser: /assets/images/north-star/undraw_datapoints.png
