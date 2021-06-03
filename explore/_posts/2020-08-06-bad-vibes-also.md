@@ -26,7 +26,7 @@ The [new thought](https://en.wikipedia.org/wiki/New_Thought) philosophy believes
 ### What is Stoic Negative Visualization?
 {% include figure image_path="/assets/images/unsplash-shipwreck.jpg" alt="Shipwreck" caption="Photo by WEB AGENCY on Unsplash" %}
 
-The premise of *premeditatio malorum* is to perceive the ills beforehand. William B. Irvine, in his book on Stoicism [A Guide to the Good Life](https://amzn.to/2VBOIp6) says: "To engage in negative visualization is to contemplate the bad things that happen to us". This does not mean to live within a depressing imagined life. In fact, it helps us prepare better for when things don't go according to plan.
+The premise of *premeditatio malorum* is to perceive the ills beforehand. William B. Irvine, in his book on Stoicism 'A Guide to the Good Life' says: "To engage in negative visualization is to contemplate the bad things that happen to us". This does not mean to live within a depressing imagined life. In fact, it helps us prepare better for when things don't go according to plan.
 
 The Stoics take this all the way to premeditating one's own death. This can be a bit extreme if you're starting off. Maybe thinking about messing up a presentation or not buying the house of your dreams is a more palatable negative visualization.
 
@@ -60,8 +60,8 @@ Small doses of the uncomfortable things can can better prepare and strengthen us
 
 ---
 ### References & More Reading
-- Ryan Holiday's Daily Stoic on [Negative Visualization](https://dailystoic.com/premeditatio-malorum/) and his [book](https://amzn.to/3mGHqw5)
-- Rhonda Byrne's [The Secret](https://amzn.to/37wOc1a)
+- Ryan Holiday's Daily Stoic on [Negative Visualization](https://dailystoic.com/premeditatio-malorum/)
+- Rhonda Byrne's 'The Secret'
 - Wiki [Law of Attraction](https://en.wikipedia.org/wiki/Law_of_attraction_(New_Thought))
 
 

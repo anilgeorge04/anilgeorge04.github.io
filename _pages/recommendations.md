@@ -36,7 +36,7 @@ Here's a short list of places on the internet where I've learnt a ton from.
 - [Startup School](https://www.startupschool.org/) by YCombinator
 - [Become a Product Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/) on Udemy (Paid)
 - [Product School](https://productschool.com/free-product-management-resources/)'s Free Resources & Podcasts
-- Book: Inspired by Marty Cagan ([Amazon](https://amzn.to/2RPj48D))
+- Book: 'Inspired' by Marty Cagan
 
 #### Programming & Data Science
 - [DataCamp](https://www.datacamp.com?tap_a=5644-dce66f&tap_s=1596029-2af4dc&utm_medium=affiliate&utm_source=anilgeorge) (Monthly & Annual subscriptions)
