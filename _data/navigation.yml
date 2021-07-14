@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "All Posts"
-    url: /all/
-  - title: "Recommendations"
-    url: /reco-list/
+    url: /all
   - title: "Building"
-    url: /building/
+    url: /building
+  - title: "Learning"
+    url: /learning
   - title: "About"
-    url: /about/
+    url: /about
 
 # categories
 categories:

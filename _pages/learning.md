@@ -1,7 +1,13 @@
 ---
-title: My Recommendations
-layout: single
-permalink: /reco-list/
+layout: collection
+collection: tinker
+entries_layout: grid
+sort_by: date
+sort_order: reverse
+classes: wide
+title: Learning
+permalink: /learning/
+classes: wide
 last_modified_at: 2021-05-10T11:50:00+05:30
 ---
 Here's a short list of places on the internet where I've learnt a ton from.
@@ -48,3 +54,9 @@ Here's a short list of places on the internet where I've learnt a ton from.
 - [Minute Physics](https://www.youtube.com/user/minutephysics/)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/)
 - [Vsauce2](https://www.youtube.com/user/Vsauce2/)
+
+# Learning by doing
+I feel like a computer engineer who's learning things all over again.
+
+This time, doing it my way - tinkering around, breaking things, and building along the way.
+
