@@ -1,11 +1,11 @@
 ---
 title: About
 layout: single
-permalink: /about/
+permalink: /about
 author_profile: true
 ---
-### About me
-Hi, I’m Anil - a startup enthusiast and an Ultimate Frisbee [athlete](https://indiaultimate.org/2015-aouc-team-india). I like to build products, teams, and systems to scale ideas. Currently, I’m consulting with a few early-stage startups.
+### Hi, I'm Anil 👋
+A startup enthusiast, an "ops" guy, and an ultimate frisbee [athlete](https://indiaultimate.org/2015-aouc-team-india). I like to build products, teams, and scalable systems. Currently, I’m consulting and [building](/building).
 
 I was part of the Founding Team at [91springboard](https://www.91springboard.com/), India’s largest coworking community. As VP of Operations, I wore different hats over 6 years to build and scale the idea to a ~$200M firm with ~400 employees. Previously, I worked at [Mu Sigma](https://www.mu-sigma.com/) in Data Science & Management Consulting, and at [eBay](https://www.ebay.com/) in Software Development. 
 
@@ -14,9 +14,9 @@ I studied Liberal Arts, General Management & Computer Science from [Young India 
 More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04/){: .btn .btn--linkedin}
 
 ### Subscribe
-At **Minimal Cave**, I follow my curiosity, explore data, analyze products, simplify concepts, and seek to learn with you. The format is short and crisp. If this interests you, subscribe now and
+I follow my curiosity, explore data, analyze products, simplify concepts, and seek to learn with you here. The format is short and crisp. Subscribe now and
 {% include feed-subscribe.html %}
-You can unsubscribe easily at any time. If you face any issues, [write to me](mailto:contact@minimalcave.com) directly.
+You can unsubscribe easily at any time. If you face any issues, DM me on [Twitter](https://twitter.com/anilgeorge04).
 {: .notice}
 
 ### About the site
