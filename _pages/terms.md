@@ -1,7 +1,7 @@
 ---
 title: Terms & Privacy Policy
 layout: single
-permalink: /terms/
+permalink: /terms
 last_modified_at: 2020-12-04T17:50:00+05:30
 ---
 ## Privacy Policy

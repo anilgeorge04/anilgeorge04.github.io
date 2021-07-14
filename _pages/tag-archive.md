@@ -1,7 +1,7 @@
 ---
 title: "Posts by Tags"
 layout: tags
-permalink: /tags/
+permalink: /tags
 classes: wide
 sidebar:
     nav: "categories"

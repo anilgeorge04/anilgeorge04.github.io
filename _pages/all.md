@@ -1,7 +1,7 @@
 ---
 title: "Posts by Year"
 layout: posts
-permalink: /all/
+permalink: /all
 classes: wide
 entries_layout: grid
 sidebar:

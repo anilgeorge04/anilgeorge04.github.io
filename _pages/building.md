@@ -2,13 +2,13 @@
 layout: single
 classes: wide
 title: Building
-permalink: /building/
+permalink: /building
 classes: wide
 feature_row:
   - url: https://nudgeloop.com
     image_path: /assets/images/projects/nudgeloop.png
     title: "Nudgeloop"
-    excerpt: "CRM and feedback solutions to improve customer retention for Small & Medium Enterprises"
+    excerpt: "Customer Relations and Feedback solutions to improve customer retention for Small & Medium Enterprises"
   - url: https://minimalcave.com
     image_path: /assets/images/projects/minimalcave.png
     title: "Minimal Cave"
@@ -34,4 +34,4 @@ Ideas I'm passionately building from scratch. Please reach out if you're interes
 ### Level up your learning with
 {% include feature_row id="feature_row2"%}
 
-More about my last 10 years of work on [LinkedIn](https://www.linkedin.com/in/anilgeorge04/){: .btn .btn--linkedin}
+More about my work on [LinkedIn](https://www.linkedin.com/in/anilgeorge04/){: .btn .btn--linkedin}

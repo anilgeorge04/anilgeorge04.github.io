@@ -4,11 +4,8 @@ collection: tinker
 entries_layout: grid
 sort_by: date
 sort_order: reverse
-classes: wide
 title: Learning
-permalink: /learning/
-classes: wide
-last_modified_at: 2021-05-10T11:50:00+05:30
+permalink: /learning
 ---
 Here's a short list of places on the internet where I've learnt a ton from.
 
@@ -56,7 +53,6 @@ Here's a short list of places on the internet where I've learnt a ton from.
 - [Vsauce2](https://www.youtube.com/user/Vsauce2/)
 
 # Learning by doing
-I feel like a computer engineer who's learning things all over again.
-
-This time, doing it my way - tinkering around, breaking things, and building along the way.
+---
+As a computer engineer who's learning things all over again, this time I'm learning by tinkering around, breaking things, and building along the way.
 
