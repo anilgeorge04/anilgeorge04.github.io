@@ -51,7 +51,8 @@
   display: flex;
   -ms-flex-item-align: center;
   align-self: center;
-  font-weight: bold;
+  // font-weight: bold;
+  font-family: $shadows;
   // z-index: 20;
 }
 
