@@ -22,7 +22,7 @@ feature_row2:
     image_path: /assets/images/projects/twitter_profile_oli.png
     title: "Open Learn India"
     excerpt: "Open source repository of free online learning resources mapped to the Indian curriculum"
-  - url: https://samshiksha.gov.in/
+  - url: https://samshiksha.gov.in
     image_path: /assets/images/projects/samshiksha.jpg
     title: "sāmShiksha"
     excerpt: "Curating courses across interests and disciplines to augment college education in India"
@@ -34,4 +34,4 @@ Ideas I'm passionately building from scratch. Please reach out if you're interes
 ### Level up your learning with
 {% include feature_row id="feature_row2"%}
 
-More about my work on [LinkedIn](https://www.linkedin.com/in/anilgeorge04/){: .btn .btn--linkedin}
+More about my work on [LinkedIn](https://www.linkedin.com/in/anilgeorge04){: .btn .btn--linkedin}
