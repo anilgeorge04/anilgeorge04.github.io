@@ -12,7 +12,7 @@ feature_row:
   - url: https://minimalcave.com
     image_path: /assets/images/projects/minimalcave.png
     title: "Minimal Cave"
-    excerpt: "Notion templates to organize personal and professional aspects of your life"
+    excerpt: "Frameworks and Notion templates to organize personal and professional aspects of your life"
 feature_row2:
   - url: https://stepnortheast.org
     image_path: /assets/images/projects/twitter_profile_stepne.png
