@@ -20,7 +20,7 @@ You can unsubscribe easily at any time. If you face any issues, DM me on [Twitte
 {: .notice}
 
 ### About the site
-Open-source [FTW](https://en.wiktionary.org/wiki/for_the_win)! Powered by Ruby projects [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/), the entire website runs for free. [Disqus](https://disqus.com/) runs comments while [Mailchimp](http://eepurl.com/hwsf0n) powers email subscriptions.
+Open-source For The Win! Powered by Ruby projects [Jekyll](jekyllrb.com/) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes/), the entire website runs for free. It was a fun project to put together. [Disqus](https://disqus.com/) runs comments while [Mailchimp](http://eepurl.com/hwsf0n) powers email subscriptions.
 
 [Terms & Privacy Policy]({% link _pages/terms.md %})<br>
 All opinions and views are my own. They do not represent any organization I am/was affiliated with.
