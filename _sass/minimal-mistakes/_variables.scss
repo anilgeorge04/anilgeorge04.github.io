@@ -19,11 +19,13 @@ $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
+/* masthead font */
+$shadows: "Shadows Into Light Two";
+$masthead-font: $shadows, $monospace !default;
+
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
 $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
-/* masthead font */
-$shadows: "Shadows Into Light", sans-serif !default;
 
 /* serif typefaces */
 $georgia: Georgia, serif !default;
