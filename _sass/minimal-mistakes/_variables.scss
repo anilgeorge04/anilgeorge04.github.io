@@ -22,6 +22,8 @@ $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
 $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+/* masthead font */
+$shadows: "Shadows Into Light", sans-serif !default;
 
 /* serif typefaces */
 $georgia: Georgia, serif !default;
@@ -29,9 +31,6 @@ $times: Times, serif !default;
 $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
-
-/* masthead font */
-$shadows: "Shadows Into Light Two", sans-serif !default;
 
 $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
