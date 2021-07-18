@@ -4,18 +4,18 @@ remote_theme             : "mmistakes/minimal-mistakes@4.21.0"
 minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-title                    : "Anil George"
+title                    : "Anil George's Blog"
 locale                   : "en"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Anil George" # site author, shows up in Copyright at the footer
-description              : "Follow your curiosity, learn, build, fail fast and often"
+description              : "Follow your curiosity, learn, and build. Fail fast and often."
 url                      : "https://anilgeorge.blog" # base hostname & protocol for site
 baseurl                  : # the subpath of site, e.g. "/blog"
 repository               : "anilgeorge04/anilgeorge04.github.io" # GitHub username/repo-name
 teaser                   : "/assets/images/logos/linkedin_banner_image_2.png" # path of fallback teaser image for RELATED POSTS
 logo                     : "/assets/images/favicons/android-chrome-512x512.png" # path of logo image to display in the masthead
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Anil George" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 comments:
@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Anil George"
   avatar           : "/assets/images/bio-image-color.jpg" # path of avatar image
-  bio              : "Learning to live. Failing fast and often."
+  bio              : "Learn. Build. Fail fast & often."
   location         : # "New Delhi, India"
   twitter          : anilgeorge04
   github           : anilgeorge04
