@@ -7,9 +7,11 @@ sort_order: reverse
 title: Learning
 permalink: /learning
 ---
-Here's a short list of places on the internet where I've learnt a ton from.
+The internet is an endless learning repository. Here are a few places I frequent.
+{: .notice}
 
 ## Blogs/Newsletters & Podcasts
+---
 #### Thinking & Building
 - [Farnam Street](https://fs.blog/) and [The Knowledge Project](https://fs.blog/knowledge-project/) with Shane Parrish
 - [Paul Graham](http://paulgraham.com/) essays
@@ -34,25 +36,25 @@ Here's a short list of places on the internet where I've learnt a ton from.
 - [99% Invisible](https://99percentinvisible.org/)
 - [The Anthropocene Reviewed](https://www.johngreenbooks.com/podcast)
 
-## Learning Resources
+## Lectures & Videos
+---
 #### Starting Up & Product Management
-- [Startup School](https://www.startupschool.org/) by YCombinator
-- [Become a Product Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/) on Udemy (Paid)
+- [Startup School](https://www.startupschool.org/) and [Hacker News](https://news.ycombinator.com/) by YCombinator
+- [Become a Product Manager](https://www.udemy.com/course/become-a-product-manager-learn-the-skills-get-a-job/) on Udemy (paid)
 - [Product School](https://productschool.com/free-product-management-resources/)'s Free Resources & Podcasts
-- Book: 'Inspired' by Marty Cagan
 
 #### Programming & Data Science
-- [DataCamp](https://www.datacamp.com?tap_a=5644-dce66f&tap_s=1596029-2af4dc&utm_medium=affiliate&utm_source=anilgeorge) (Monthly & Annual subscriptions)
 - [FreeCodeCamp](https://www.freecodecamp.org/)
+- [DataCamp](https://www.datacamp.com?tap_a=5644-dce66f&tap_s=1596029-2af4dc&utm_medium=affiliate&utm_source=anilgeorge) (paid subscription)
 
 #### Pursue Curiosity
 - [Crash Course](https://www.youtube.com/user/crashcourse)
-- [Brilliant](https://brilliant.org/) (Paid subscription)
+- [Brilliant](https://brilliant.org/) (paid subscription)
 - [Minute Physics](https://www.youtube.com/user/minutephysics/)
 - [Kurzgesagt – In a Nutshell](https://www.youtube.com/c/inanutshell/)
 - [Vsauce2](https://www.youtube.com/user/Vsauce2/)
 
-# Learning by doing
+# Learn by doing
 ---
-As a computer engineer who's learning things all over again, this time I'm learning by tinkering around, breaking things, and building along the way.
+As a computer engineer who's learning things all over again, this time I'm tinkering around, breaking things, and building along the way.
 

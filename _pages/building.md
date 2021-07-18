@@ -8,11 +8,11 @@ feature_row:
   - url: https://nudgeloop.com
     image_path: /assets/images/projects/nudgeloop.png
     title: "Nudgeloop"
-    excerpt: "Customer Relations and Feedback solutions to improve customer retention for Small & Medium Enterprises"
+    excerpt: "Customer relations and feedback solutions to improve customer retention for Small & Medium Enterprises"
   - url: https://minimalcave.com
     image_path: /assets/images/projects/minimalcave.png
     title: "Minimal Cave"
-    excerpt: "Frameworks and Notion templates to organize personal and professional aspects of your life"
+    excerpt: "Systems and Notion templates to organize personal and professional aspects of your life"
 feature_row2:
   - url: https://stepnortheast.org
     image_path: /assets/images/projects/twitter_profile_stepne.png
@@ -27,7 +27,8 @@ feature_row2:
     title: "sāmShiksha"
     excerpt: "Curating courses across interests and disciplines to augment college education in India"
 ---
-Ideas I'm passionately building from scratch. Please reach out if you're interested in collaborating.
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/anilgeorge04) or [Twitter](https://twitter.com/anilgeorge04) if you're interested in collaborating.
+{: .notice}
 ### Streamline your Operations with
 {% include feature_row%}
 
