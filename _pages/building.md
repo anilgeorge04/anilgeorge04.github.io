@@ -18,7 +18,7 @@ feature_row2:
     image_path: /assets/images/projects/twitter_profile_stepne.png
     title: "STEP North East"
     excerpt: "Bridging the educational and opportunity gap between urban and rural areas in North East India"
-  - url: https://openlearnindia.org
+  - url: https://anilgeorge.blog/openlearnindia
     image_path: /assets/images/projects/twitter_profile_oli.png
     title: "Open Learn India"
     excerpt: "Open source repository of free online learning resources mapped to the Indian curriculum"
