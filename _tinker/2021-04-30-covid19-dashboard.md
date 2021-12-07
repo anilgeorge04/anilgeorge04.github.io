@@ -13,7 +13,7 @@ buttons:
 ---
 Minimal dashboard with daily confirmed cases of COVID-19 in India in last 100 days
 
-{% include /tinker/buttons.html %}
+{% include /custom-cta/tinker-buttons.html %}
 
 If you're visitng the app for the first time, MyBinder takes some time to load
 {: .notice}

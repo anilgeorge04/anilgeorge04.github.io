@@ -41,7 +41,7 @@ The best way to learn is by doing. The [Fit Investors simulation](http://thefiti
 - Buy shares with your cash balance, sell shares and manage your portfolio
 - View your transaction history under your account
 
-{% include /tinker/buttons.html %}
+{% include /custom-cta/tinker-buttons.html %}
 **All the best!**
 {: .text-center}
 
