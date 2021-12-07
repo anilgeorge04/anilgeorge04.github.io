@@ -17,5 +17,5 @@ categories:
     url: /categories/explore
   - title: "Musings"
     url: /categories/musings
-  # - title: "Minimal Cave"
-  #   url: /categories/minimalcave
+  - title: "Minimal Cave"
+    url: /categories/minimalcave
