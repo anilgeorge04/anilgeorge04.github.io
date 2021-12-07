@@ -8,4 +8,4 @@ entries_layout: grid
 sidebar:
     nav: "categories"
 ---
-Unfiltered random musings from my journal.
+Unfiltered musings about things across the board
