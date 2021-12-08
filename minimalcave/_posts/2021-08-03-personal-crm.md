@@ -4,9 +4,9 @@ excerpt: "Follow up meaningfully and deepen your relationships"
 header:
     teaser: /assets/images/minimalcave/PersonalCRM.PNG
 tags:
-    - CRM
+    - relationships
     - notion
-    - templates
+    - productivity
 templatelink: https://minimalcave.com/personal-crm
 ---
 Organize your social network. Follow up meaningfully. Deepen your relationships.

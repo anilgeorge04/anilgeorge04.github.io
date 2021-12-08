@@ -4,7 +4,7 @@ excerpt: Journaling my thoughts on meditation and git, connected by the idea of 
 header:
     teaser: /assets/images/unsplash-maxduzij.jpg
 tags: 
-    - git
+    - software development
     - mindfulness
     - journal
 ---

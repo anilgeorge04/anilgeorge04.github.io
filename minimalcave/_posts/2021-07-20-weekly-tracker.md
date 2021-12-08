@@ -6,7 +6,7 @@ header:
 tags:
     - planner
     - notion
-    - templates
+    - productivity
 templatelink: https://minimalcave.com/weekly-tracker
 ---
 Organize your days and weeks with this minimal yet comprehensive planner, tracker, and journal. 

@@ -7,10 +7,11 @@ header:
   overlay_filter: 0.5
   teaser: /assets/images/playstore_notebook_files/notebook_9_0.png
 tags:
-  - applications
+  - apps
   - marketing
   - insights
   - customer behavior
+  - product analysis
 nbviewer: https://bit.ly/39NUfAY
 ---
 {% include /notebooks/datacamp.html %} 

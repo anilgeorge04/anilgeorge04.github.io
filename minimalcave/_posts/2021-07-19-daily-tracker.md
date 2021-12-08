@@ -6,7 +6,7 @@ header:
 tags:
     - planner
     - notion
-    - templates
+    - productivity
 templatelink: https://www.minimalcave.com/daily-tracker
 ---
 Organize your day with this 3-in-1 planner, tracker, and journal on Notion.

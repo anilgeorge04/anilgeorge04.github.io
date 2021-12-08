@@ -6,9 +6,10 @@ header:
     caption: Image by John Hain from Pixabay
 tags:
     - product analysis
-    - applications
+    - apps
     - journal
     - project management
+    - productivity
 ---
 *What is the best app to manage all your notes, information, and plans?*
 

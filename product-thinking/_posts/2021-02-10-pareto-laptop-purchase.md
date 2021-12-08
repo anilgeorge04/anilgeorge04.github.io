@@ -7,7 +7,7 @@ header:
 tags:
   - mental model
   - customer behavior
-  - stress reduction
+  - productivity
   - decision making
 ---
 

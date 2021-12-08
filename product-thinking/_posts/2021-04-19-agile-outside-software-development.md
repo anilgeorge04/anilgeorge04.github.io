@@ -8,6 +8,7 @@ tags:
     - metrics
     - software development
     - project management
+    - productivity
 ---
 *Proactive leaders now use Agile practices to transform nearly every other function in any industry*{: .notice}
 

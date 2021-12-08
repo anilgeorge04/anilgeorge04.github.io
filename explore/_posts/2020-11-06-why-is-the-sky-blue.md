@@ -6,8 +6,6 @@ header:
     overlay_image: /assets/images/unsplash-jeffham.jpg
     caption: "Jeffrey Hamilton on Unsplash"
 tags:
-    - science
-    - cosmos
     - howstuffworks
 ---
 There are many things in our life that we accept and take for granted. After all, our brain only has enough time and energy to catch up on what my friend ate for lunch, what Trump tweeted from his pot, what YouTube & TikTok recommends for my dopamine fix today… you get the point. We have a life.
