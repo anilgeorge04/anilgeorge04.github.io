@@ -11,7 +11,7 @@ tags:
   - marketing
   - insights
   - customer behavior
-  - product analysis
+  - product impressions
 nbviewer: https://bit.ly/39NUfAY
 ---
 {% include /notebooks/datacamp.html %} 

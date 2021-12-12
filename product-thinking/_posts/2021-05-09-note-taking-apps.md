@@ -5,7 +5,7 @@ header:
     teaser: /assets/images/notetaking/brain-busy.jpg
     caption: Image by John Hain from Pixabay
 tags:
-    - product analysis
+    - product impressions
     - apps
     - journal
     - project management
