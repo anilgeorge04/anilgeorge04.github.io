@@ -8,6 +8,7 @@ tags:
     - leadership
     - mindfulness
     - sports
+    - relationships
 ---
 Last night over a dinner chat, a close friend of mine claimed that she’s an *alpha* personality. We debated if there’s room for more than one *alpha* in a functional team. I woke up today morning thinking about how my friend and I are both *alpha* personalities in different settings. A team of *alphas* can be wildly successful. But first, it’s important to clarify what I mean by *alpha*.
 
