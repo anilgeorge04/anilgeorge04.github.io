@@ -1,5 +1,5 @@
 ---
-title: "Our Relationship with Money"
+title: "My Relationship with Money"
 excerpt: "Takeaways from Morgan Housel's Psychology of Money and reflecting on my experiences"
 header:
     teaser: "/assets/images/musings/money-psych.jpg"
@@ -12,8 +12,8 @@ tags:
 ---
 Last week, I devoured Morgan Housel’s book ‘Psychology of Money’.
 
-**Special shout out to my wife**: This was her first gift to me after our wedding. I loved it!
-{: .notice}
+**Shout out**: Thank you, my wife, for this lovely first gift after our wedding!
+{: .notice--success}
 
 Morgan Housel is a partner at The Collaborative Fund and a former columnist at The Motley Fool and The Wall Street Journal. He effortlessly covers the extremely complex topic of our relationship with money in this book. I have struggled to communicate many of the same ideas to my friends and family because I constantly feel such ideas need more context and lived experiences to make any sense.
 
@@ -84,6 +84,11 @@ Wealth is the ability to do what I’d like to do with my time and having option
 **Reflection**
 I want the freedom to do whatever I’d like to do with my time. I love to play and I like to build products and organizations and work with smart people who like to win as a team. Some of these endeavors may add more income, but that’s only a by-product of how I choose to spend my time.
 
+> Money helps me build a life that I don’t need to escape from.
+
 Work on leading the balanced life I strive for by knowing what is enough. It’s easy to get sucked into wanting more and more. Saying "that's enough" and not moving the goalposts is harder. But it helps you sleep better at night.
 
-> Money helps me build a life that I don’t need to escape from.
+---
+
+*This article is for informational purposes only. It should not be considered Financial or Legal Advice. Not all information will be accurate. Consult a financial professional before making any major financial decisions.*
+{: .notice}
