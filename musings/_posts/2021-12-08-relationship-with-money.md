@@ -1,5 +1,5 @@
 ---
-title: "My Relationship with Money"
+title: "Our Relationship with Money"
 excerpt: "Takeaways from Morgan Housel's Psychology of Money and reflecting on my experiences"
 header:
     teaser: "/assets/images/musings/money-psych.jpg"
@@ -15,9 +15,9 @@ Last week, I devoured Morgan Housel’s book ‘Psychology of Money’.
 **Shout out**: Thank you, my wife, for this lovely first gift after our wedding!
 {: .notice--success}
 
-Morgan Housel is a partner at The Collaborative Fund and a former columnist at The Motley Fool and The Wall Street Journal. He effortlessly covers the extremely complex topic of our relationship with money in this book. I have struggled to communicate many of the same ideas to my friends and family because I constantly feel such ideas need more context and lived experiences to make any sense.
+Morgan Housel is a partner at The Collaborative Fund and a former columnist at The Motley Fool and The Wall Street Journal. He effortlessly covers the extremely complex topic of our relationship with money in this book. 
 
-However, Morgan brilliantly solves that right in the first chapter when he says “No one’s crazy”. Each of us has a unique relationship with money. Some decisions that seem strange or crazy to others may make perfect sense to us.
+I have struggled to communicate many of the same ideas to my friends and family because I constantly feel such ideas need more context and lived experiences to make any sense. However, Morgan brilliantly solves that right in the first chapter when he says **“No one’s crazy”**. Each of us has a unique relationship with money. Some decisions that seem strange or crazy to others may make perfect sense to us.
 
 Before I get to my takeaways from the book that I agree most with, it’s important to clarify how I think about money and establish my context. After all, each person is playing a different game based on their unique lives and no one’s crazy.
 
@@ -55,7 +55,8 @@ Don’t be swayed by another person’s goals and outlook to spend/invest/save. 
 
 > Be humble when things go right and compassionate when they go wrong.
 
-**Reflection**
+**Reflection:**
+
 I don’t need to buy things for society’s validation or a prospective career boost. There are others who may need to do that. I need my money to grow over the next 30 years at a rate faster than my withdrawal rate. It must provide a comfortable life for me and family.
 
 Save even if you don’t have a specific reason to save because life is a continuous chain of surprises. By investing in the stock market, I am betting on the global economic growth that I expect will continue.
@@ -69,7 +70,8 @@ It’s not possible to have perfect information about everything. As Carl Richar
 
 > Risk is the flip-side of luck.
 
-**Reflection**
+**Reflection:**
+
 I know a lot less about how the world works than I think I do, but I form a narrative to fill in the gaps. We all do that to make sense of our day to day.
 
 My investing strategy currently doesn’t rely on picking the right stocks or funds at the right time. I get it broadly right with Systematic Investment Plans (SIP) into a large cap, multi cap, and index fund and also balancing between equity and debt. I’m not actively trying to beat the market or make quick returns. I would rather spend my energy and effort monitoring expenses, being disciplined about budgets, improving my savings rate, remaining patient, and believing that the global economy will create value in the coming decades.
@@ -81,7 +83,8 @@ Wealth is the ability to do what I’d like to do with my time and having option
 
 > Wealth is what others can't see.
 
-**Reflection**
+**Reflection:**
+
 I want the freedom to do whatever I’d like to do with my time. I love to play and I like to build products and organizations and work with smart people who like to win as a team. Some of these endeavors may add more income, but that’s only a by-product of how I choose to spend my time.
 
 > Money helps me build a life that I don’t need to escape from.
