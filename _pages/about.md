@@ -4,22 +4,43 @@ layout: single
 permalink: /about/
 author_profile: true
 ---
-### Hi, I'm Anil 👋
-A startup enthusiast, an "ops" guy, and an ultimate frisbee [athlete](https://indiaultimate.org/2015-aouc-team-india). I like to build products, teams, and scalable systems. Currently, I’m consulting and [building](/building).
+Hi! I'm Anil, Co-Founder of [Tofu](https://ontofu.com) (we’re reimagining gifting).
 
-I was part of the Founding Team at [91springboard](https://www.91springboard.com), India’s largest coworking community. As VP of Operations, I wore different hats over 6 years to build and scale the idea to a ~$200M firm with ~400 employees. Previously, I worked at [Mu Sigma](https://www.mu-sigma.com/) in Data Science & Management Consulting, and at [eBay](https://www.ebay.com) in Software Development. 
+With 10+ years of experience in operations, analytics, product, and consulting, I specialize in using data to create value for customers and capture value for the business.
 
-I studied Liberal Arts, General Management & Computer Science from [Young India Fellowship](https://ashoka.edu.in/yif), [IIM Bangalore](https://www.iimb.ac.in/home) & [PSG College of Technology](https://www.psgtech.edu).
+<figure style="width: 300px" class="align-center">
+  <img src="/assets/images/about-anil-growthexpertise.png" alt="My expertise in using data to create and capture value">
+  <figcaption>Growth: Create value. Capture value. Repeat.</figcaption>
+</figure>
+
+**Background**
+
+I was part of the Founding Team at [91springboard](https://www.91springboard.com), India’s largest coworking community. As VP of Operations, I wore many hats over 6 years to scale the idea from scratch to a ~$200M firm.
+
+I started my career in Software Development at [eBay](https://www.ebay.com) and built a foundation in Data Science, Analytics & Management Consulting at [Mu Sigma](https://www.mu-sigma.com/). I studied Liberal Arts, General Management & Computer Science from [Young India Fellowship](https://ashoka.edu.in/yif), [IIM Bangalore](https://www.iimb.ac.in/home) & [PSG College of Technology](https://www.psgtech.edu).
 
 More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04){: .btn .btn--linkedin}
 
-### Subscribe
-I follow my curiosity, explore data, analyze products, simplify concepts, and seek to learn with you here. The format is short and crisp. Subscribe now and
-{% include feed-subscribe.html %}
-You can unsubscribe easily at any time. If you face any issues, DM me on [Twitter](https://twitter.com/anilgeorge04).
+**Love to build**
+
+Winning as a team makes me tick. This is also why I love to [play Ultimate Frisbee](https://indiaultimate.org/2015-aouc-team-india).
+
+I'm always building, helping others build, and looking for folks who are deeply passionate about what they do - to work with and learn from them. [DM me](https://twitter.com/anilgeorge04) if you’re interested in creating value in any of these:
+- [DAObook](http://daobook.site) (help people discover DAOs to do the work they love)
+- [Pravesh](https://pravesh.org/) (boutique GTM consulting for startups entering India)
+- [STEP](https://stepnortheast.org/) (non-profit that bridges education gaps in North East India)
+- [Minimal Cave](https://minimalcave.com) (organize personal and professional life on Notion)
+
+More in [build archive](/building)
 {: .notice}
 
-### About the site
+## Subscribe
+I follow my curiosity, explore data, analyze products, simplify concepts, and seek to learn with you here. The format is short and crisp. Subscribe now and
+{% include feed-subscribe.html %}
+You can unsubscribe easily at any time. If you face any issues, [DM me on Twitter](https://twitter.com/anilgeorge04).
+{: .notice}
+
+## About the site
 Open-source For The Win! Powered by Ruby projects [Jekyll](jekyllrb.com) and [Minimal Mistakes](https://mademistakes.com/minimal-mistakes), the entire website runs for free. It was a fun project to put together. [Disqus](https://disqus.com) runs comments while [Mailchimp](http://eepurl.com/hwsf0n) powers email subscriptions.
 
 [Terms & Privacy Policy]({% link _pages/terms.md %})<br>
