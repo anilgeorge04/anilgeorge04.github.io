@@ -2,10 +2,6 @@
 main:
   - title: "All Posts"
     url: /all
-  - title: "Building"
-    url: /building
-  - title: "Learning"
-    url: /learning
   - title: "About"
     url: /about
 
