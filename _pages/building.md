@@ -1,38 +1,20 @@
 ---
 layout: single
-classes: wide
-title: Building
+title: Build Archive
 permalink: /building
-classes: wide
-feature_row:
-  - url: https://nudgeloop.com
-    image_path: /assets/images/projects/nudgeloop.png
-    title: "Nudgeloop"
-    excerpt: "Customer relations and feedback solutions to improve customer retention for Small & Medium Enterprises"
-  - url: https://minimalcave.com
-    image_path: /assets/images/projects/minimalcave.png
-    title: "Minimal Cave"
-    excerpt: "Systems and Notion templates to organize personal and professional aspects of your life"
-feature_row2:
-  - url: https://stepnortheast.org
-    image_path: /assets/images/projects/twitter_profile_stepne.png
-    title: "STEP North East"
-    excerpt: "Bridging the educational and opportunity gap between urban and rural areas in North East India"
-  - url: https://anilgeorge.blog/openlearnindia
-    image_path: /assets/images/projects/twitter_profile_oli.png
-    title: "Open Learn India"
-    excerpt: "Open source repository of free online learning resources mapped to the Indian curriculum"
-  - url: https://samshiksha.gov.in
-    image_path: /assets/images/projects/samshiksha.jpg
-    title: "sāmShiksha"
-    excerpt: "Curating courses across interests and disciplines to augment college education in India"
 ---
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/anilgeorge04) or [Twitter](https://twitter.com/anilgeorge04) if you're interested in collaborating.
+DM me on [Twitter](https://twitter.com/anilgeorge04) or [LinkedIn](https://www.linkedin.com/in/anilgeorge04) if you're interested in collaborating.
 {: .notice}
-### Streamline your Operations with
-{% include feature_row%}
+## Current
+#### Organizations
+- [DAObook](http://daobook.site) (Help 1 million people discover the DAOs to do the work they love)
+- [Pravesh](https://pravesh.org/) (Boutique Go-To-Market consulting for innovative startups looking to enter India)
+- [STEP NE](https://stepnortheast.org): Bridging the educational and opportunity gaps in rural areas of North East India
 
-### Level up your learning with
-{% include feature_row id="feature_row2"%}
+#### Side Projects
+- [Minimal Cave](https://minimalcave.com): Simple systems and templates to organize personal and professional lives
+- [MyTinkerLab](/tinker): Encourage builders to put out even their "un-shippable" work while learning
 
-More about my work on [LinkedIn](https://www.linkedin.com/in/anilgeorge04){: .btn .btn--linkedin}
+## Archive
+- [Nudgeloop](https://nudgeloop.com): Customer relations and feedback solutions to improve customer retention for Small & Medium Enterprises
+- [Open Learn India](https://anilgeorge.blog/openlearnindia) and [sāmShiksha](https://samshiksha.gov.in): Curated repository of free online learning resources mapped to the Indian curriculum to augment college education
