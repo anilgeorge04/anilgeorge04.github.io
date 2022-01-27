@@ -9,7 +9,7 @@ locale                   : "en"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Anil George" # site author, shows up in Copyright at the footer
-description              : "Follow your curiosity, learn, and build. Fail fast and often."
+description              : "Follow your curiosity. Create value. Capture value. Repeat."
 url                      : "https://anilgeorge.blog" # base hostname & protocol for site
 baseurl                  : # the subpath of site, e.g. "/blog"
 repository               : "anilgeorge04/anilgeorge04.github.io" # GitHub username/repo-name
@@ -86,8 +86,8 @@ analytics:
 # Site Author
 author:
   name             : "Anil George"
-  avatar           : "/assets/images/bio-image-color.jpg" # path of avatar image
-  bio              : "Learn. Build. Fail fast & often."
+  avatar           : "/assets/images/anil-image-color.jpg" # path of avatar image
+  bio              : "Create value. Capture value."
   location         : # "New Delhi, India"
   twitter          : anilgeorge04
   github           : anilgeorge04
