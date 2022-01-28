@@ -5,7 +5,7 @@ header:
     teaser: "/assets/images/musings/money-psych.jpg"
 tags:
     - personal finance
-    - book takeaways
+    - takeaways
     - mindfulness
     - mental model
     - finance
