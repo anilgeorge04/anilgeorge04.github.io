@@ -9,7 +9,7 @@ Hi! I'm Anil, Co-Founder of [Tofu](https://ontofu.com) (we’re reimagining gift
 With 10+ years of experience in operations, analytics, product, and consulting, I specialize in using data to create value for customers and capture value for the business.
 
 <figure style="width: 300px" class="align-center">
-  <img src="/assets/images/about-anil-growthexpertise.png" alt="My expertise in using data to create and capture value">
+  <img src="/assets/images/about-anil-growth-mantra.png" alt="My growth expertise and mantra is to use data to create and capture value">
   <figcaption>Growth: Create value. Capture value. Repeat.</figcaption>
 </figure>
 
