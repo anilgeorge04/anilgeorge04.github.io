@@ -4,9 +4,7 @@ layout: single
 permalink: /about/
 author_profile: true
 ---
-Hi! I'm Anil, Co-Founder of [Tofu](https://ontofu.com) (we’re reimagining gifting).
-
-With 10+ years of experience in operations, analytics, product, and consulting, I specialize in using data to create value for customers and capture value for the business.
+Hi! I'm Anil. With 10 years of experience in business & product operations, data analytics, program management, and consulting, I enjoy using data to create value for customers, capture value for the business, and build retention loops.
 
 <figure style="width: 300px" class="align-center">
   <img src="/assets/images/about-anil-growth-mantra.png" alt="My growth expertise and mantra is to use data to create and capture value">
@@ -15,9 +13,9 @@ With 10+ years of experience in operations, analytics, product, and consulting, 
 
 **Background**
 
-I was part of the Founding Team at [91springboard](https://www.91springboard.com), India’s largest coworking community. As VP of Operations, I wore many hats over 6 years to scale the idea from scratch to a ~$200M firm.
+I was part of the Founding Team and Head of Ops at [91springboard](https://www.91springboard.com), India’s largest coworking community. During the 6 years here, I worked across functions, built teams, and repeatedly adapted as we went from a basement with 50 members to serving 20k active members across 30 locations.
 
-I started my career in Software Development at [eBay](https://www.ebay.com) and built a foundation in Data Science, Analytics & Management Consulting at [Mu Sigma](https://www.mu-sigma.com/). I studied Liberal Arts, General Management & Computer Science from [Young India Fellowship](https://ashoka.edu.in/yif), [IIM Bangalore](https://www.iimb.ac.in/home) & [PSG College of Technology](https://www.psgtech.edu).
+I started my career in Software Development at [eBay](https://www.ebay.com) and built a foundation in Data Analytics & Management Consulting at [Mu Sigma](https://www.mu-sigma.com/). I studied Liberal Arts, General Management & Computer Science from [Young India Fellowship](https://ashoka.edu.in/yif), [IIM Bangalore](https://www.iimb.ac.in/home) & [PSG College of Technology](https://www.psgtech.edu).
 
 More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04){: .btn .btn--linkedin}
 
