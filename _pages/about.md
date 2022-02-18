@@ -13,7 +13,7 @@ Hi! I'm Anil. With 10 years of experience in business & product operations, data
 
 **Background**
 
-I was part of the Founding Team and Head of Ops at [91springboard](https://www.91springboard.com), India’s largest coworking community. During the 6 years here, I worked across functions, built teams, and repeatedly adapted as we went from a basement with 50 members to serving 20k active members across 30 locations.
+I was Head of Ops and part of the Founding Team at [91springboard](https://www.91springboard.com), India’s largest coworking community. During the 6 years here, I worked across functions, adapted repeatedly, and built teams as we went from serving 50 members in a basement to 20000 active members across 30 locations.
 
 I started my career in Software Development at [eBay](https://www.ebay.com) and built a foundation in Data Analytics & Management Consulting at [Mu Sigma](https://www.mu-sigma.com/). I studied Liberal Arts, General Management & Computer Science from [Young India Fellowship](https://ashoka.edu.in/yif), [IIM Bangalore](https://www.iimb.ac.in/home) & [PSG College of Technology](https://www.psgtech.edu).
 
@@ -23,7 +23,7 @@ More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04){: .btn .btn--linked
 
 Winning as a team makes me tick. This is also why I love to [play Ultimate Frisbee](https://indiaultimate.org/2015-aouc-team-india).
 
-I'm always building, helping others build, and looking for folks who are deeply passionate about what they do - to work with and learn from them. [DM me](https://twitter.com/anilgeorge04) if you’re interested in creating value in any of these:
+I'm always building, helping others build, and looking for folks who are deeply passionate about what they do - to work with and learn from them. [DM me](https://twitter.com/anilgeorge04) if you’re interested in creating value in any of these projects and organizations:
 - [DAObook](http://daobook.site) (help people discover DAOs to do the work they love)
 - [Pravesh](https://pravesh.org/) (boutique GTM consulting for startups entering India)
 - [STEP](https://stepnortheast.org/) (non-profit that bridges education gaps in North East India)
