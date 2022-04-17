@@ -79,4 +79,5 @@ As a PM, you do not work in isolation (like with purchasing your laptop). You ne
 
 So, the next time you face a situation where you have to decide or prioritize - **Pareto it**!
 
-Update (15 Feb 2022): [Context - Why I'm a fan of frameworks?]({% post_url frameworks/2022-02-15-frameworks-context %})
+**Update** (15 Feb 2022): [Context - Why I'm a fan of frameworks?]({% post_url frameworks/2022-02-15-frameworks-context %})
+{: .notice--info}
