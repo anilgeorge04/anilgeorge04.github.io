@@ -9,6 +9,8 @@ main:
 categories:
   - title: "Product Thinking"
     url: /categories/product-thinking
+  - title: "Frameworks"
+    url: /categories/frameworks
   - title: "Explore"
     url: /categories/explore
   - title: "Musings"

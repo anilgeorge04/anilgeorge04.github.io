@@ -8,4 +8,4 @@ entries_layout: grid
 sidebar:
     nav: "categories"
 ---
-Study products & markets, use mental models, discuss metrics, and more
+Study products & markets, discuss metrics, and more
