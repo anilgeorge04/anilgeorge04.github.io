@@ -5,10 +5,10 @@ header:
     teaser: /assets/images/agile/agilemanifesto.png
 tags:
     - decision making
-    - metrics
     - software development
     - project management
     - productivity
+    - strategy
 ---
 *Proactive leaders now use Agile practices to transform nearly every other function in any industry*{: .notice}
 

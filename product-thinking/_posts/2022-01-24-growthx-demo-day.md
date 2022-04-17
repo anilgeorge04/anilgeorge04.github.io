@@ -5,7 +5,6 @@ header:
     teaser: /assets/images/product-think/anil-growthx-takeaways.png
 tags:
     - product impressions
-    - metrics
     - insights
     - marketing
     - customer behavior
