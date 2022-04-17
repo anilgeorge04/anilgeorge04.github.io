@@ -9,6 +9,7 @@ tags:
     - marketing
     - customer behavior
     - takeaways
+    - product growth
 ---
 A well spent Sunday afternoon attending the GrowthX demo day!
 
