@@ -78,3 +78,5 @@ Prioritizing features and grooming the backlog is an important activity for Prod
 As a PM, you do not work in isolation (like with purchasing your laptop). You need to communicate and negotiate with other stakeholders about their competing priorities. The Pareto method of decision-making allows you to strengthen your communication with focus and consistency. 
 
 So, the next time you face a situation where you have to decide or prioritize - **Pareto it**!
+
+Update (15 Feb 2022): [Context - Why I'm a fan of frameworks?]({% post_url frameworks/2022-02-15-frameworks-context %})

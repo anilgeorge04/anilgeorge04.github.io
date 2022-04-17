@@ -147,7 +147,7 @@ The digital apps will not do away with my love for pen and paper. I schedule my 
 If you already use some digital apps, you will want to migrate your old notes into your new system. If you have reached this far, I assume organizing information rocks your boat too. Switching cost is real. Check if the app you choose allows you to migrate all notes from your existing app(s) easily. This was a relief for me when I moved from Evernote to Notion. But it was not as straightforward either. It is a bonus if the app you choose allows you to export notes easily to migrate elsewhere in the future. You will thank yourself later.
 
 ## Closing Thoughts
-Few weeks ago I wrote about [Pareto principle to make better decisions](/product-thinking/pareto-laptop-purchase/). Defining your use cases, workflow, and priorities clearly is the the 20% input that will yield 80% of the results.
+Few weeks ago I wrote about [Pareto principle to make better decisions]({% post_url frameworks/2021-02-10-pareto-laptop-purchase %}). Defining your use cases, workflow, and priorities clearly is the the 20% input that will yield 80% of the results.
 
 Your [North Star](/product-thinking/north-star-metric/) should be to write, revisit, process, and use your notes in the future and apply in the right context. This is far more important than hoarding a lot of information.
 
