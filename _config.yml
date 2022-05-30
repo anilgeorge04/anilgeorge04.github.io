@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Anil George"
-  avatar           : "/assets/images/anil-image-color.jpg" # path of avatar image
+  avatar           : "/assets/images/anil-wed-bio.png" # path of avatar image
   bio              : "Create value. Capture value."
   location         : # "New Delhi, India"
   twitter          : anilgeorge04
