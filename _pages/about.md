@@ -16,7 +16,7 @@ I've [played](https://indiaultimate.org/2015-aouc-team-india) team sports for as
 
 I enjoy [building](/building) things. Currently, along with a couple of close friends, we are building a non-profit called [STEP](https://stepnortheast.org/) to bridge education and opportunity gaps in North East India. Write to me if you can contribute towards the program as a faculty or mentor or facilitator or donor.
 
-### Subscribe
+**Receive my updates**
 {% include feed-subscribe.html %}
 
 [Terms & Privacy Policy]({% link _pages/terms.md %})<br>
