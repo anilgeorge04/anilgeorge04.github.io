@@ -4,24 +4,24 @@ remote_theme             : "mmistakes/minimal-mistakes@4.21.0"
 minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-title                    : "Anil George's Blog"
+title                    : "Anil George"
 locale                   : "en"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Anil George" # site author, shows up in Copyright at the footer
-description              : "Follow your curiosity. Create value. Capture value. Repeat."
+description              : "Free Thoughts"
 url                      : "https://anilgeorge.blog" # base hostname & protocol for site
 baseurl                  : # the subpath of site, e.g. "/blog"
-repository               : "anilgeorge04/anilgeorge04.github.io" # GitHub username/repo-name
-teaser                   : "/assets/images/logos/linkedin_banner_image_2.png" # path of fallback teaser image for RELATED POSTS
-logo                     : "/assets/images/favicons/android-chrome-512x512.png" # path of logo image to display in the masthead
+repository               : # GitHub username/repo-name
+teaser                   : # path of fallback teaser image for RELATED POSTS
+logo                     : # path of logo image to display in the masthead
 masthead_title           : "Anil George" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "minimalcave" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -69,11 +69,10 @@ og_image                 : "/assets/images/logos/twitter_profile_image.png" # Op
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person # Person or Organization (defaults to Person)
-  name                   : Anil George # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-    - "https://twitter.com/anilgeorge04"
-    - "https://github.com/anilgeorge04"
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles    
     - "https://www.linkedin.com/in/anilgeorge04/"
+    - "https://twitter.com/anilgeorge04"
 
 # Analytics
 analytics:
@@ -86,12 +85,12 @@ analytics:
 # Site Author
 author:
   name             : "Anil George"
-  avatar           : "/assets/images/anil-wed-bio.png" # path of avatar image
-  bio              : "Create value. Capture value."
+  avatar           : "/assets/images/anil-casual-square.jpg" # path of avatar image
+  bio              : # text below avatar image
   location         : # "New Delhi, India"
-  twitter          : anilgeorge04
-  github           : anilgeorge04
-  linkedin         : anilgeorge04
+  twitter          : # anilgeorge04
+  github           : # anilgeorge04
+  linkedin         : # anilgeorge04
   # email            : 
   # links:
   #   - label: "Email"
