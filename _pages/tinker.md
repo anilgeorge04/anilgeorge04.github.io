@@ -1,12 +1,10 @@
 ---
 layout: collection
 collection: tinker
-entries_layout: grid
+entries_layout: list
 sort_by: date
 sort_order: reverse
-title: MyTinkerLab
+title: My Tinker Lab
 permalink: /tinker
 ---
-I'm learning CS and building products all over again. This time I'm learning by tinkering around, breaking things, and building along the way.
-
-By putting out "un-shippable" products and work, I hope to encourage builders to make their own TinkerLab and learn by doing.
+Learn. Break. Build.
