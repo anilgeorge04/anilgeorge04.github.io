@@ -1,10 +1,8 @@
 ---
-title: "Posts by Category"
+title: "Posts"
 layout: categories
 permalink: /categories/
 classes: wide
-entries_layout: grid
+entries_layout: list
 ---
-View by
-[Year](/all){: .btn .btn--danger}
-[Tags](/tags/){: .btn .btn--danger}
+View by [Year](/all){: .btn .btn--danger}
