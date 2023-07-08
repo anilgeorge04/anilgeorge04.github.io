@@ -1,12 +1,16 @@
 # main links
 main:
-  - title: "Posts"
-    url: /all
+  - title: "Workbench"
+    url: /workbench
+  - title: "Notes"
+    url: /notes
   - title: "About"
     url: /about
 
 # categories
 categories:
+  - title: "Workbench"
+    url: /workbench
   - title: "Product Thinking"
     url: /categories/product-thinking
   - title: "Frameworks"
