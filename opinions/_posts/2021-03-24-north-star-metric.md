@@ -1,12 +1,8 @@
 ---
-title: "North Star Metric - The secret to smart KPIs"
+title: "North Star - Secret to smart KPIs"
 excerpt: "What's the best KPI to track?"
 header:
     teaser: /assets/images/north-star/undraw_datapoints.png
-tags:
-    - decision making
-    - metrics
-    - mental model
 ---
 We track metrics to measure progress. From a specific feature within a product to an entire business, metrics help us make quantitative sense of performance. So the secret is to identify the Key Performance Indicators (KPI) to track.
 
@@ -46,4 +42,4 @@ So fix your North Star metric that tells you how you are doing overall. Then ide
 - DO NOT let the measure itself turn into the goal (Read [Perverse incentive](https://en.wikipedia.org/wiki/Perverse_incentive#The_original_cobra_effect))
 
 
-**What KPIs do you track?**
+***What KPIs do you track?***

@@ -1,17 +1,9 @@
 ---
-title: "Can you adopt Agile outside Software Development?"
-excerpt: "Proactive leaders now use Agile practices to transform nearly every other function in any industry"
+title: "Adopting Agile outside software development"
+excerpt: "Agile practices can transform nearly every function in any industry"
 header:
     teaser: /assets/images/agile/agilemanifesto.png
-tags:
-    - decision making
-    - software development
-    - project management
-    - productivity
-    - strategy
 ---
-*Proactive leaders now use Agile practices to transform nearly every other function in any industry*{: .notice}
-
 Agile methodologies, with its values, principles and benefits are now a radical alternative to the traditional command-and-control-style management and is spreading across industries and functions. This HBR article on [Embracing Agile](https://hbr.org/2016/05/embracing-agile) highlights examples of John Deere developing new machines, Saab producing new fighter jets, Mission Bell Winery producing wine, teams organizing their digital strategy, leadership, marketing, HR and more using Agile methodologies to accelerate profitable growth with a new generation of skilled Managers.
 
 {% include figure image_path="/assets/images/agile/undraw_schedule.png" %}

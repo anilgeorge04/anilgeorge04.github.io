@@ -1,14 +1,12 @@
 ---
-title: 3 Simple Git Commands for a Clean Development Workflow
-excerpt: Work with branches, commits and logs
+title: 3 git commands for a clean workflow
+excerpt: Work with branches, commits and decorate your logs
 header:
     teaser: /assets/images/unsplash-yancymin.jpg
     overlay_image: /assets/images/unsplash-yancymin.jpg
     image_description: "Git Version Control"
     overlay_filter: 0.5
     caption: "[Yancy Min](https://unsplash.com/photos/842ofHC6MaI)"
-tags:
-    - software development
 ---
 Git is a free and open-source distributed version control system, designed for speed and accuracy. While it is powerful, it comes with a learning curve. So starting off, **you're bound to make some mistakes with your commits. That's okay!** The great thing about version control is that you can always roll back to a previous stable state. You can run your experiments in branches without disrupting anything on the master branch. You can pull up the log and decide your next steps and more.
 

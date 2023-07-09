@@ -1,12 +1,8 @@
 ---
-title: "Data Skeptic: Correlation does not imply Causation"
-excerpt: "A mantra to deeply ingrain the data skeptic mindset"
+title: "Data Skepticism 101"
+excerpt: "Correlation does not imply causation"
 header:
     teaser: /assets/images/pinterest-correlation.jpg
-tags:
-    - metrics
-    - insights
-    - decision making
 ---
 {% include figure image_path="/assets/images/pinterest-correlation.jpg" alt="Correlation all who eat chicken go to the moon" caption="Source: [Pinterest](https://www.pinterest.co.uk/pin/312296555380025188)" %}
 
@@ -41,7 +37,7 @@ While each of these statistical concepts warrant detailed lessons of their own, 
 
 Smoking was advertised as "healthy" for many years. That is until [this study](https://en.wikipedia.org/wiki/British_Doctors_Study) that proved a causal relationship between the two correlated events of smoking and lung cancer.
 
-Remember that just because two events correlate, it does not necessarily mean that one causes the other. 
+**tl;dr**: just because two events correlate, it does not necessarily mean that one causes the other. 
 
 For the times when your pattern-matching biases blunt your skepticism,
 

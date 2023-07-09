@@ -1,8 +1,8 @@
 ---
-title: "Musings"
-taxonomy: musings
+title: "Opinions"
+taxonomy: opinions
 layout: category
-permalink: /musings
+permalink: /opinions
 classes: wide
 entries_layout: list
 ---

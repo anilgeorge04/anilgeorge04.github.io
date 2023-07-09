@@ -1,5 +1,5 @@
 ---
-title: "Our Relationship with Money"
+title: "Our relationship with money"
 excerpt: "Takeaways from Morgan Housel's Psychology of Money and reflecting on my experiences"
 header:
     teaser: "/assets/images/musings/money-psych.jpg"

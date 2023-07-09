@@ -1,13 +1,8 @@
 ---
-title: "Why Frameworks? Setting context"
-excerpt: Frameworks - a superpower for generalists
+title: "Why I like using frameworks"
+excerpt: A superpower for generalists
 header:
   teaser: assets/images/frameworks/solution_mindset.png
-tags:
-  - mental model
-  - problem solving
-  - productivity
-  - decision making
 ---
 A good execution strategy to carry out any business action (in fact, any type of action) emerges from clarity of vision. In ambiguous and complex environments, frameworks help you navigate through the noise and get to that position of clarity.
 

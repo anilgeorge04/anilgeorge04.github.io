@@ -7,10 +7,6 @@ header:
 buttons:
     app: https://mybinder.org/v2/gh/anilgeorge04/eda-notes/HEAD?urlpath=%2Fvoila%2Frender%2Fdashboards%2Fcovid-19-dashboard.ipynb
     github: https://github.com/anilgeorge04/eda-notes/tree/main/dashboards
-tags:
-    - product
-    - building
-    - analysis
 ---
 A minimal dashboard with daily confirmed cases of COVID-19 in India in the last 100 days across top states.
 
