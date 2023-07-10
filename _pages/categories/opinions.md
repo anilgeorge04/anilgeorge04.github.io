@@ -5,4 +5,6 @@ layout: category
 permalink: /opinions
 classes: wide
 entries_layout: list
+sidebar:
+    nav: "categories"
 ---
