@@ -7,30 +7,27 @@ header:
 ---
 It is human to want. We often want the things that give us a sense of comfort - money, fame, love, and purpose. A life without any of this sounds uncomfortable. But is it really so bad? 
 
-{% include figure image_path="/assets/images/unsplash-good-vibes.jpg" alt="Good vibes" caption="Photo by Yaniv Knobel on Unsplash" %}
+Rhonda Byrne in her 2006 book 'The Secret' talks about the *Law of Attraction* - a way to manifest your desires and control the Universe with your thoughts. Good vibes all around. 
 
-The *good vibes only* culture seems to ride the wave of Rhonda Byrne's 2006 self-help book 'The Secret'. The book talks about the 'Law of Attraction' as the *secret* to manifest your desires and control the Universe with your thoughts.
-
-Does this mean we visualize and will away any temporary discomfort arising from negative thoughts? The Stoics don't think so.
-
-Stoic philosophers like Marcus Aurelius, Epictetus and Seneca believed in a powerful idea called *premeditatio malorum* (premeditation of evils). According to the Stoics, negative feeling or discomfort is a judgment we assign to things, and not an attribute of the thing itself.
-
-### What is Law of Attraction again?
 {% include figure image_path="/assets/images/unsplash-goodship.jpg" alt="Luxury yacht The Good Life" caption="Photo by Alina Kacharho on Unsplash" %}
 The [new thought](https://en.wikipedia.org/wiki/New_Thought) philosophy suggests that positive or negative thoughts bring positive or negative experiences into a person's life. So good "energy" from positive thoughts manifests itself into positive outcomes. While there is no empirical scientific evidence supporting this, there is a mystic yet intuitive appeal to it. After all, the last time you had a negative thought, it wasn't much fun, was it? Happy thoughts on the other hand - can't get enough of it.
 
-### What is Stoic Negative Visualization?
+So we will away any temporary discomfort arising from negative thoughts? The Stoics don't think so.
+
+### Premeditatio Malorum
+Stoic philosophers (like Marcus Aurelius, Epictetus and Seneca) believed in a powerful idea called *premeditatio malorum* (premeditation of evils). It encourages thinking about bad or sometimes worst case scenarios, to be better prepared. According to the Stoics, negative feeling or discomfort is a judgment we assign to things, and not an attribute of the thing itself.
+
 {% include figure image_path="/assets/images/unsplash-shipwreck.jpg" alt="Shipwreck" caption="Photo by WEB AGENCY on Unsplash" %}
 
-The premise of *premeditatio malorum* is to perceive the ills beforehand. William B. Irvine, in his book on Stoicism 'A Guide to the Good Life' says: "To engage in negative visualization is to contemplate the bad things that happen to us". This does not mean to live within a depressing imagined life. In fact, it helps us prepare better for when things don't go according to plan.
+William B. Irvine, in his book on Stoicism 'A Guide to the Good Life' says: "To engage in negative visualization is to contemplate the bad things that happen to us". This is not the same as living an imagined depressing life. On the contrary, it prepares us for when things don't go according to plan. Sound familiar?
 
-The Stoics take this all the way to premeditating one's own death. This can be a bit extreme if you're starting off. Maybe thinking about messing up a presentation or not buying the house of your dreams is a more palatable negative visualization.
+The Stoics take this all the way to premeditating one's own death. But to start off, you can think about something less extreme. Like messing up an important presentation. What if customers do not love the product you built? What if you do not land that coveted job or project? Start with a palatable visualization and work your way up.
 
 ### So negative thoughts is the way to go?
 Not really. 
 
 Law of attraction is great at forcing one to articulate their goals. This is a big step in moving from a dream to a clear thought to reality. 
-In the journey towards our goals, there are going to be tough times. Acknowledge it and rehearse handling the fears, apprehensions, and any other undesired outcomes. Negative visualization prepares you for the "how" to get past the challenges to achieve one's goals. 
+In the journey towards realizing our goals, there are going to be tough times. Acknowledge it and rehearse handling the fears, apprehensions, and any other undesired outcomes. Negative visualization prepares one to get past the challenges in the path towards one's goals.
 
 Controlled exposure to negative sensations gives one the courage to face these fears and overcome it with calm confidence. Think of it as a vaccine for better mental health.
 
@@ -41,9 +38,9 @@ Law of attraction is powerful. Use it to articulate and break down goals. Negati
 - Be less dramatic about what you visualize and build up the practice gradually
 - Make plans to handle the situations when things go wrong and rehearse this
 - Repeated exposure in small doses over time is key
-- Be mindful<sup>*</sup> of those moments you come out of a 'negative' situation
+- Be mindful<sup>*</sup> during those moments you are entering/in/coming out of a 'negative' situation
 - Be realistic about your starting point and stay kind to yourself
-- Track and progress in this continuous learning journey
+- Track and progress this continuous learning journey
 
 <sup>*</sup>Pay attention to your thoughts and feelings, and defer any judgment
 {: .notice}
