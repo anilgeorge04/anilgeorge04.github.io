@@ -3,12 +3,6 @@ title: "Our relationship with money"
 excerpt: "Takeaways from Morgan Housel's Psychology of Money and reflecting on my experiences"
 header:
     teaser: "/assets/images/musings/money-psych.jpg"
-tags:
-    - personal finance
-    - takeaways
-    - mindfulness
-    - mental model
-    - finance
 ---
 Last week, I devoured Morgan Housel’s book ‘Psychology of Money’.
 
