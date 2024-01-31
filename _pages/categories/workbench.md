@@ -10,7 +10,8 @@ sidebar:
 # layout: single
 ---
 **Active Projects**
-- [Minimal Cave](https://minimalcave.com): Systems and Notion templates to organize personal and professional life.
+- [Minimal Cave](https://minimalcave.com): Systems and Notion templates ([essentials certified](https://www.credly.com/badges/2c5dc1a6-b112-4d4d-949b-050e717bbbb9/public_url)) to organize personal and professional life
+<!-- [![notion-essentials-badge]({{ site.url }}{{ site.baseurl }}/assets/images/mc-logos/notion-essentials-badge.png)](https://www.credly.com/badges/2c5dc1a6-b112-4d4d-949b-050e717bbbb9/public_url) -->
 
 ### Archive
 - [Tofu](https://ontofu.com/): Delightful gifting made easy. We built this to study the gifting market.
