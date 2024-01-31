@@ -9,7 +9,7 @@ locale                   : "en"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Anil George" # site author, shows up in Copyright at the footer
-description              : "Workbench and Learning"
+description              : "Building and Playing"
 url                      : "https://anilgeorge.blog" # base hostname & protocol for site
 baseurl                  : # the subpath of site, e.g. "/blog"
 repository               : # GitHub username/repo-name
@@ -86,9 +86,9 @@ analytics:
 author:
   name             : "Anil George"
   avatar           : "/assets/images/anil-casual-square.jpg" # path of avatar image
-  bio              : "Building & Learning" # text below avatar image
+  bio              : "Building & Playing" # text below avatar image
   location         : # "New Delhi, India"
-  twitter          : # anilgeorge04
+  twitter          : anilgeorge04
   github           : # anilgeorge04
   linkedin         : anilgeorge04
   # email            : 

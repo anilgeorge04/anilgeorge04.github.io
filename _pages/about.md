@@ -4,17 +4,15 @@ layout: single
 permalink: /about/
 author_profile: true
 ---
-Hi there!👋 
+Hi there, I'm Anil!👋 
 
-I'm Anil, a Business Transformation Manager in the Strategy & Programs team at [Airbnb](https://airbnb.com). 
+I am a builder with a background in software engineering, liberal arts, business management, and team sports. Currently, I'm working on a full-stack solution for sales, marketing, and customer success teams in B2C companies to unlock revenue efficiencies together.
 
-I'm a software engineer turned management consultant with a post-graduate in Liberal Arts. I'm curious and seek to simplify things. In this process, I enjoy learning new perspectives, playing with data, pattern matching, and building solutions. Prior to Airbnb, I headed Operations at [91springboard](https://91springboard.com), a community-led coworking chain that we took from 0 to 1 to 10.
+Previously, I headed Operations and held chief-of-staff roles at the founding, scaling, and scaled stages of customer-centric companies like [Airbnb](https://airbnb.com) and [91springboard](https://91springboard.com).
+
+I value simplicity, objectivity, and empathetic problem-solving from first principles.
 
 More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04){: .btn .btn--linkedin}
-
-My friends and I started [STEP North East](https://stepnortheast.org), a non-profit to bridge education and opportunity gaps for inspiring girls in the North East of India through upskilling programs. Write to me if you'd like to teach or mentor or contribute in any way.
-
-I play Ultimate Frisbee actively ([2023](https://indiaultimate.org/en_in/p/national-team-announcement-team-india-mixed-masters-for-aougc-2023), [2015](https://indiaultimate.org/2015-aouc-team-india)) and love to travel.
 
 **Receive my updates**
 {% include feed-subscribe.html %}
