@@ -19,3 +19,6 @@ _site
 _drafts/
 _tinker/template.md
 _trash
+
+# Mac generated files
+.DS_store
