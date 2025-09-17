@@ -14,9 +14,6 @@ I value simplicity, objectivity, and empathetic problem-solving from first princ
 
 More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04){: .btn .btn--linkedin}
 
-**Receive my updates**
-{% include feed-subscribe.html %}
-
 [Terms & Privacy Policy]({% link _pages/terms.md %})<br>
 All opinions and views are my own. They do not represent any organization I am/was affiliated with.
 {: .notice}
