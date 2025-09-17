@@ -6,13 +6,17 @@ author_profile: true
 ---
 Hi there, I'm Anil!👋 
 
-I am a product builder with a background in software engineering, liberal arts, business management, and team sports. Currently, I'm building [Pageloop](https://pageloop.ai) to help companies auto-maintain their product knowledge base.
+I’m a product builder with a background spanning software engineering, liberal arts, business management, and team sports. Right now, I’m building [Pageloop](https://pageloop.ai) — helping companies automatically maintain their product knowledge bases.
 
-Previously, I headed Operations and held chief-of-staff roles at companies like [Airbnb](https://airbnb.com) and [91springboard](https://91springboard.com) (founding team). I value simplicity, objectivity, and empathetic problem-solving from first principles.
-
-I value simplicity, objectivity, and empathetic problem-solving from first principles.
+Earlier, I led operations and served as chief of staff at [Airbnb](https://airbnb.com) and on the founding team at [91springboard](https://91springboard.com). I care deeply about simplicity, objectivity, and solving problems empathetically from first principles.
 
 More on [LinkedIn](https://www.linkedin.com/in/anilgeorge04){: .btn .btn--linkedin}
+
+Two lines I live by:
+
+> “Do not take life too seriously.”
+
+> “You can’t stop the waves, but you can learn how to surf.”
 
 [Terms & Privacy Policy]({% link _pages/terms.md %})<br>
 All opinions and views are my own. They do not represent any organization I am/was affiliated with.
