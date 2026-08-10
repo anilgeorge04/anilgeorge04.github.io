@@ -15,7 +15,7 @@ sidebar:
 
 ### Archive
 - [Tofu](https://ontofu.com/): Delightful gifting made easy. We built this to study the gifting market.
-- [Open Learn India](https://anilgeorge.blog/openlearnindia): Open source repository of free online learning resources mapped to the Indian curriculum. Built this for my nephew and his friends.
+- [Open Learn India](https://anilgeorge.space/openlearnindia): Open source repository of free online learning resources mapped to the Indian curriculum. Built this for my nephew and his friends.
 - [sāmShiksha](https://samshiksha.gov.in): With the larger vision to become an Online University, this product is a first step in curating courses across interests and disciplines to augment college education in India. Product managed building this along with 4 others.
 
 ### Notes
