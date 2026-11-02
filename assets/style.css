@@ -168,12 +168,26 @@ a:hover { text-decoration-color: currentColor; }
   font-size: 0.9em;
   text-wrap: balance;
 }
+.years {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(3rem, 7vh, 4rem);
+  margin: clamp(3.5rem, 9vh, 5.5rem) 0 0;
+}
+.year-label {
+  margin: 0 0 1.4rem;
+  color: var(--accent);
+  font-size: 0.72em;
+  font-weight: 400;
+  letter-spacing: 0.14em;
+  font-variant-numeric: lining-nums;
+}
 .notes {
   display: flex;
   flex-direction: column;
   gap: 1.6rem;
   max-width: 32rem;
-  margin: clamp(3.5rem, 9vh, 5.5rem) 0 0;
+  margin: 0;
   padding: 0;
   list-style: none;
 }
@@ -247,6 +261,38 @@ time {
   letter-spacing: 0.5em;
   text-align: center;
   text-indent: 0.5em;
+}
+
+/* Older and newer notes */
+.note:has(+ .pager) { padding-bottom: 0; }
+.pager {
+  display: grid;
+  gap: 1.75rem;
+  max-width: 34rem;
+  margin: 0 auto;
+  padding: clamp(3rem, 8vh, 4.5rem) 1.5rem 6rem;
+  text-align: center;
+}
+.pager a {
+  color: var(--ink);
+  font-size: 0.92em;
+  line-height: 1.3;
+  text-decoration-color: transparent;
+  text-wrap: balance;
+}
+.pager a:hover { color: var(--accent); text-decoration-color: currentColor; }
+.pager-label {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: var(--muted);
+  font-size: 0.68em;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+@media (min-width: 36rem) {
+  .pager { grid-template-columns: 1fr 1fr; column-gap: 2.5rem; }
+  .older { text-align: left; }
+  .newer { grid-column: 2; text-align: right; }
 }
 
 /* Note body */
@@ -365,6 +411,6 @@ time {
 
 @media print {
   :root { --bg: #fff; --ink: #000; --soft: #222; --muted: #444; --accent: #000; }
-  body::before, .theme, .end { display: none; }
+  body::before, .theme, .end, .pager { display: none; }
   .note { max-width: none; padding-bottom: 0; }
 }

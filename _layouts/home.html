@@ -4,15 +4,23 @@ layout: default
 <main class="home">
   {% include mark.html %}
   <h1 class="name">{{ site.title }}</h1>
-  <p class="greeting">Welcome in. Make yourself at home.</p>
+  <p class="greeting">Welcome. Here you’ll find what I’ve learned and the ideas I keep coming back to.</p>
   {%- if site.posts.size > 0 %}
-  <ul class="notes">
-    {%- for note in site.posts %}
-    <li>
-      <a href="{{ note.url | relative_url }}">{{ note.title | escape }}</a>
-      <time datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date: "%-d %B %Y" }}</time>
-    </li>
+  <div class="years">
+    {%- assign years = site.posts | group_by_exp: "note", "note.date | date: '%Y'" %}
+    {%- for year in years %}
+    <section class="year" aria-labelledby="year-{{ year.name }}">
+      <h2 class="year-label" id="year-{{ year.name }}">{{ year.name }}</h2>
+      <ul class="notes">
+        {%- for note in year.items %}
+        <li>
+          <a href="{{ note.url | relative_url }}">{{ note.title | escape }}</a>
+          <time datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date: "%-d %B" }}</time>
+        </li>
+        {%- endfor %}
+      </ul>
+    </section>
     {%- endfor %}
-  </ul>
+  </div>
   {%- endif %}
 </main>

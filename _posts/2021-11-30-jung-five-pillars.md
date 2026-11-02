@@ -1,6 +1,6 @@
 ---
 title: Carl Jung’s 5 Pillars of a Happy Life
-date: 2026-11-02 09:05:00 +0530
+date: 2021-11-30 09:05:00 +0530
 ---
 
 1. Good physical and mental health.

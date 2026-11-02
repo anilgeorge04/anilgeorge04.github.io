@@ -13,4 +13,14 @@ layout: default
     </div>
     <p class="end" aria-hidden="true">· · ·</p>
   </article>
+  {%- if page.previous or page.next %}
+  <nav class="pager" aria-label="More notes">
+    {%- if page.previous %}
+    <a class="older" href="{{ page.previous.url | relative_url }}" rel="prev"><span class="pager-label">← Older</span> {{ page.previous.title | escape }}</a>
+    {%- endif %}
+    {%- if page.next %}
+    <a class="newer" href="{{ page.next.url | relative_url }}" rel="next"><span class="pager-label">Newer →</span> {{ page.next.title | escape }}</a>
+    {%- endif %}
+  </nav>
+  {%- endif %}
 </main>
