@@ -2,9 +2,9 @@
 
 Personal notes. Built with Jekyll and published by GitHub Pages from `main`.
 
-## Write a note (on github.com, about two minutes)
+## Write a note (directly on github.com)
 
-1. Open the `_posts` folder and choose **Add file → Create new file**.
+1. Open the `_posts` folder and create a new file
 2. Name it `YYYY-MM-DD-short-name.md`, for example `2026-11-02-a-slow-morning.md`.
    The `short-name` becomes the address: `anilgeorge.space/notes/a-slow-morning/`.
 3. Paste this at the top, then write below it in Markdown:
@@ -29,11 +29,11 @@ bundle install          # first time only
 bundle exec jekyll serve
 ```
 
-Preview at http://localhost:4000. Add your note to `_posts/` as above, then commit and push to `main`.
+Preview at http://localhost:4000. Add new note to `_posts/` as above, then commit and push to `main`.
 
-## Markdown you can use
+## Markdown cheatsheet
 
-`## Heading`, `*italic*`, `**bold**`, `[link](https://…)`, `> quote`, `- list`, `` `code` ``, and `---` for a small three-dot break. For a poem or prayer, keep line breaks with `<p class="verse">line one<br>line two</p>`. Images go in `assets/images/` and are added with `![description](/assets/images/file.jpg)`.
+`## Heading`, `*italic*`, `**bold**`, `[link](https://…)`, `> quote`, `- list`, `` `code` ``, and `---` for a small three-dot break. For a poem or long quote, keep line breaks with `<p class="verse">line one<br>line two</p>`. Images go in `assets/images/` and are added with `![description](/assets/images/file.jpg)`.
 
 ## Good to know
 
