@@ -1,0 +1,41 @@
+<button class="theme" type="button" aria-label="Switch theme" hidden>
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="8.5"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor" stroke="none"/></svg>
+</button>
+<script>
+(function () {
+  var root = document.documentElement;
+  var button = document.currentScript.previousElementSibling;
+  var system = window.matchMedia("(prefers-color-scheme: dark)");
+  var meta = document.createElement("meta");
+  meta.name = "theme-color";
+
+  function current() { return root.dataset.theme || (system.matches ? "dark" : "light"); }
+
+  function sync() {
+    var theme = current();
+    button.setAttribute("aria-label", theme === "dark" ? "Switch to light theme" : "Switch to dark theme");
+    if (root.dataset.theme) {
+      meta.content = theme === "dark" ? "#1a1a17" : "#f7f5ef";
+      document.head.insertBefore(meta, document.querySelector('meta[name="theme-color"]'));
+    } else if (meta.parentNode) {
+      meta.parentNode.removeChild(meta);
+    }
+  }
+
+  button.addEventListener("click", function () {
+    var next = current() === "dark" ? "light" : "dark";
+    var followsSystem = next === (system.matches ? "dark" : "light");
+    try {
+      if (followsSystem) localStorage.removeItem("theme");
+      else localStorage.setItem("theme", next);
+    } catch (e) {}
+    if (followsSystem) delete root.dataset.theme;
+    else root.dataset.theme = next;
+    sync();
+  });
+
+  if (system.addEventListener) system.addEventListener("change", sync);
+  button.hidden = false;
+  sync();
+})();
+</script>

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<header class="masthead">
+  <a class="home-link" href="{{ '/' | relative_url }}">{% include mark.html %}{{ site.title }}</a>
+</header>
+<main>
+  <article class="note">
+    <h1 class="title">{{ page.title | escape }}</h1>
+    <time class="date" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>
+    <div class="prose">
+      {{ content }}
+    </div>
+    <p class="end" aria-hidden="true">· · ·</p>
+  </article>
+</main>

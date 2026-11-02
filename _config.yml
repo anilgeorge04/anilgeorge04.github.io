@@ -1,0 +1,30 @@
+title: Anil George
+url: https://anilgeorge.space
+baseurl: ""
+lang: en
+theme: null
+timezone: Asia/Kolkata
+
+permalink: /notes/:title/
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: note
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle

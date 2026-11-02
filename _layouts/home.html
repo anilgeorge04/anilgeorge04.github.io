@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<main class="home">
+  {% include mark.html %}
+  <h1 class="name">{{ site.title }}</h1>
+  <p class="greeting">Welcome in. Make yourself at home.</p>
+  {%- if site.posts.size > 0 %}
+  <ul class="notes">
+    {%- for note in site.posts %}
+    <li>
+      <a href="{{ note.url | relative_url }}">{{ note.title | escape }}</a>
+      <time datetime="{{ note.date | date_to_xmlschema }}">{{ note.date | date: "%-d %B %Y" }}</time>
+    </li>
+    {%- endfor %}
+  </ul>
+  {%- endif %}
+</main>
